@@ -1,0 +1,41 @@
+﻿
+@model SliderCreateViewModel
+<div class="col-8 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Create Slider</h4>
+            <form class="forms-sample" method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="exampleInputName1">First Title</label>
+                    <input asp-for="FirstTitle" class="form-control" id="exampleInputName1" placeholder="FirstTitle">
+                </div>
+                <span asp-validation-for="FirstTitle" class="text-danger"></span>
+
+                <div class="form-group">
+                    <label for="exampleInputName1">Second Title</label>
+                    <input asp-for="SecondTitle" class="form-control" id="exampleInputName1" placeholder="SecondTitle">
+                </div>
+                <span asp-validation-for="SecondTitle" class="text-danger"></span>
+
+                <div class="form-group">
+                    <label for="exampleInputName1">Description</label>
+                    <input asp-for="Description" class="form-control" id="exampleInputName1" placeholder="Description">
+                </div>
+                <span asp-validation-for="Description" class="text-danger"></span>             
+
+                <div class="form-group">
+                    <label>Cover image</label>
+                    <div class="input-group col-xs-12">
+                        <input asp-for="CoverImageFile" class="form-control file-upload-info" placeholder="Upload Image">
+                    </div>
+                    <span asp-validation-for="CoverImageFile" class="text-danger"></span>
+                </div>
+             
+                <div asp-validation-summary="ModelOnly"></div>
+                <button type="submit" class="btn btn-primary mr-2">Submit</button>
+                <a asp-action="index" class="btn btn-light">Cancel</a>
+            </form>
+        </div>
+    </div>
+</div>
+
