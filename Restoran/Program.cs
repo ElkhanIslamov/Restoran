@@ -38,6 +38,7 @@ namespace Restoran
             builder.Services.AddScoped<DataInitializer>();
 
             FilePathConstants.SliderPath = Path.Combine(builder.Environment.WebRootPath, "images", "slider");
+            FilePathConstants.DishPath = Path.Combine(builder.Environment.WebRootPath, "images", "dish");
 
 
             var app = builder.Build();

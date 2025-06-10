@@ -13,38 +13,32 @@ namespace Restoran.Areas.Admin.Controllers
     public class SliderController : AdminController
     {
         private readonly AppDbContext _dbContext;
-
         public SliderController(AppDbContext context)
         {
             _dbContext = context;
         }
-
         public async Task<IActionResult> Index()
         {
             var sliders = await _dbContext.Sliders.ToListAsync();
 
             return View(sliders);
         }
-
         public async Task<IActionResult> Details(int id)
         {
             var slider = await _dbContext.Sliders.AsNoTracking().SingleOrDefaultAsync(x => x.Id == id);
 
             return View(slider);
         }
-
         public async Task<IActionResult> Create()
         {
-            var productCreateModel = new SliderCreateViewModel
+            var sliderCreateModel = new SliderCreateViewModel
             {
                 FirstTitle = string.Empty,
                 SecondTitle = string.Empty,
                 Description = string.Empty,
                 CoverImageFile = null
-
             };
-
-            return View(productCreateModel);
+            return View(sliderCreateModel);
         }
 
         [HttpPost]
@@ -86,15 +80,14 @@ namespace Restoran.Areas.Admin.Controllers
 
             return RedirectToAction(nameof(Index));
         }
-
         public async Task<IActionResult> Delete([FromBody] RequestModel requestModel)
         {
-            var topic = await _dbContext.Sliders
+            var slider = await _dbContext.Sliders
                 .FirstOrDefaultAsync(x => x.Id == requestModel.Id);
 
-            if (topic == null) return NotFound();
+            if (slider == null) return NotFound();
 
-            var removedSlider = _dbContext.Sliders.Remove(topic);
+            var removedSlider = _dbContext.Sliders.Remove(slider);
             await _dbContext.SaveChangesAsync();
 
             return Json(removedSlider.Entity);

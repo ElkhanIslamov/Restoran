@@ -267,3 +267,12 @@ C:\Users\User\Desktop\Restoran\Restoran\bin\Debug\net8.0\runtimes\win\lib\net7.0
 C:\Users\User\Desktop\Restoran\Restoran\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\User\Desktop\Restoran\Restoran\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\User\Desktop\Restoran\Restoran\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\Рабочий стол\Restoran\Restoran\obj\Debug\net8.0\Restoran.csproj.AssemblyReference.cache
+E:\Рабочий стол\Restoran\Restoran\obj\Debug\net8.0\Restoran.GeneratedMSBuildEditorConfig.editorconfig
+E:\Рабочий стол\Restoran\Restoran\obj\Debug\net8.0\Restoran.AssemblyInfoInputs.cache
+E:\Рабочий стол\Restoran\Restoran\obj\Debug\net8.0\Restoran.AssemblyInfo.cs
+E:\Рабочий стол\Restoran\Restoran\obj\Debug\net8.0\Restoran.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\Restoran\Restoran\obj\Debug\net8.0\Restoran.MvcApplicationPartsAssemblyInfo.cache
+E:\Рабочий стол\Restoran\Restoran\obj\Debug\net8.0\Restoran.RazorAssemblyInfo.cache
+E:\Рабочий стол\Restoran\Restoran\obj\Debug\net8.0\Restoran.RazorAssemblyInfo.cs
+E:\Рабочий стол\Restoran\Restoran\obj\Debug\net8.0\Restoran.sourcelink.json
