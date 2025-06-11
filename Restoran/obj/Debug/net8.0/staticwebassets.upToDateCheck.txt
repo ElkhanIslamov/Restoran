@@ -559,6 +559,7 @@ wwwroot\assets\revolution\js\extensions\revolution.extension.slideanims.min.js
 wwwroot\assets\revolution\js\extensions\revolution.extension.video.min.js
 wwwroot\assets\revolution\js\jquery.themepunch.revolution.min838f.js
 wwwroot\assets\revolution\js\jquery.themepunch.tools.min838f.js
+wwwroot\images\dish\Fillet-9176bbbe-f350-476c-83bd-b8154246a4e8.jpg
 wwwroot\images\slider\1-1075e05a-4c24-4749-b439-6ebf1ae32040.jpeg
 wwwroot\images\slider\1-4490c787-c72d-41bc-ac3a-8b3931a28d99.jpeg
 wwwroot\images\slider\1-9224cfdb-bc15-4407-a9b9-7448c78de842.jpeg

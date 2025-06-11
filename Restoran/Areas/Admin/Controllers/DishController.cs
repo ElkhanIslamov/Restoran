@@ -13,19 +13,19 @@ namespace Restoran.Areas.Admin.Controllers
         private readonly AppDbContext _dbContext;
         public DishController(AppDbContext context)
         {
-            _dbContext = context;
+          _dbContext = context;
         }
         public async Task<IActionResult> Index()
         {
-            var dishes = await _dbContext.Dishes.ToListAsync();
+          var dishes = await _dbContext.Dishes.ToListAsync();
 
-            return View(dishes);
+          return View(dishes);
         }
         public async Task<IActionResult> Details(int id)
         {
-            var dish = await _dbContext.Dishes.AsNoTracking().SingleOrDefaultAsync(d => d.Id == id);
+          var dish = await _dbContext.Dishes.AsNoTracking().SingleOrDefaultAsync(d => d.Id == id);
 
-            return View(dish);
+          return View(dish);
         }
         public async Task<IActionResult> Create()
         {
@@ -45,7 +45,7 @@ namespace Restoran.Areas.Admin.Controllers
         {
             if (!ModelState.IsValid)
             {
-                return View(model);
+               return View(model);
             }
 
             if (!model.ImageFile.IsImage())
@@ -62,17 +62,15 @@ namespace Restoran.Areas.Admin.Controllers
                 return View(model);
             }
 
-
             var unicalImageFileName = await model.ImageFile.GenerateFile(FilePathConstants.DishPath);
 
             var dish = new Dish
             {
                 Title = model.Title,
                 Description = model.Description,
-                ImageUrl = unicalImageFileName,
-                Price = model.Price
-            };
-          
+                Price = model.Price,
+                ImageUrl = unicalImageFileName
+            };          
 
             await _dbContext.Dishes.AddAsync(dish);
             await _dbContext.SaveChangesAsync();
@@ -88,6 +86,11 @@ namespace Restoran.Areas.Admin.Controllers
 
             var removedDish = _dbContext.Dishes.Remove(dish);
             await _dbContext.SaveChangesAsync();
+
+            if (removedDish != null)
+            {
+              System.IO.File.Delete(Path.Combine(FilePathConstants.DishPath, dish.ImageUrl));
+            }
 
             return Json(removedDish.Entity);
         }
@@ -122,15 +125,20 @@ namespace Restoran.Areas.Admin.Controllers
             {
                 return View(model);
             }
+
             dish.Title = model.Title;
             dish.Description = model.Description;
             dish.Price = model.Price;
-            dish.ImageUrl = model.ImageUrl;
-            
+          
+            if (!model.ImageFile.IsImage())
+            {
+                ModelState.AddModelError("ImageFile", "Sekil secilmelidir!");
+                return View(model);
+            }
+
             if (!model.ImageFile.IsAllowedSize(1))
             {
                 ModelState.AddModelError("ImageFile", "Sekil hecmi 1mb-dan cox ola bilmez");
-
                 return View(model);
             }
 

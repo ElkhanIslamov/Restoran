@@ -11,7 +11,5 @@ namespace Restoran.DataContext.Entities
         public required string CoverImageUrl { get; set; }
         [NotMapped]
         public IFormFile? ImageFile { get; set; }
-
-
     }
 }

@@ -88,6 +88,11 @@ namespace Restoran.Areas.Admin.Controllers
             var removedSlider = _dbContext.Sliders.Remove(slider);
             await _dbContext.SaveChangesAsync();
 
+            if (slider.CoverImageUrl != null)
+            {
+                System.IO.File.Delete(Path.Combine(FilePathConstants.SliderPath, slider.CoverImageUrl));
+            }
+
             return Json(removedSlider.Entity);
         }
         public IActionResult Update(int id)
@@ -102,7 +107,7 @@ namespace Restoran.Areas.Admin.Controllers
             {
                 FirstTitle = slider.FirstTitle,
                 SecondTitle = slider.SecondTitle,
-                Description = slider.Description,
+                Description = slider.Description,          
                 CoverImageFile = slider.ImageFile
             };
 

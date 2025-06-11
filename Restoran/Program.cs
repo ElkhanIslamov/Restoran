@@ -40,7 +40,6 @@ namespace Restoran
             FilePathConstants.SliderPath = Path.Combine(builder.Environment.WebRootPath, "images", "slider");
             FilePathConstants.DishPath = Path.Combine(builder.Environment.WebRootPath, "images", "dish");
 
-
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

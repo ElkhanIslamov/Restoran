@@ -1,34 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Restoran\\",
+  "WorkspaceRootPath": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|c:\\users\\user\\desktop\\restoran\\restoran\\areas\\admin\\views\\dish\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\areas\\admin\\views\\dish\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\restoran\\restoran\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|c:\\users\\user\\desktop\\restoran\\restoran\\areas\\admin\\views\\dish\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\areas\\admin\\views\\dish\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\restoran\\restoran\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|c:\\users\\user\\desktop\\restoran\\restoran\\areas\\admin\\controllers\\dishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\restoran\\restoran\\areas\\admin\\data\\dishupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\areas\\admin\\data\\dishupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\restoran\\restoran\\areas\\admin\\controllers\\dishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\areas\\admin\\controllers\\dishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|c:\\users\\user\\desktop\\restoran\\restoran\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|c:\\users\\user\\desktop\\restoran\\restoran\\areas\\admin\\extensions\\fileextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\areas\\admin\\extensions\\fileextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|c:\\users\\user\\desktop\\restoran\\restoran\\areas\\admin\\data\\filepathconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\areas\\admin\\data\\filepathconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|c:\\users\\user\\desktop\\restoran\\restoran\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\restoran\\restoran\\areas\\admin\\views\\dish\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\areas\\admin\\views\\dish\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,103 +35,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Restoran\\Restoran\\Areas\\Admin\\Views\\Dish\\Create.cshtml",
-              "RelativeDocumentMoniker": "Restoran\\Areas\\Admin\\Views\\Dish\\Create.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Restoran\\Restoran\\Areas\\Admin\\Views\\Dish\\Create.cshtml",
-              "RelativeToolTip": "Restoran\\Areas\\Admin\\Views\\Dish\\Create.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAAArwCAAAAAtAAAAAAAAAA==",
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "RelativeDocumentMoniker": "Restoran\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "RelativeToolTip": "Restoran\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-10T18:13:43.425Z",
+              "WhenOpened": "2025-06-11T12:26:33.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Restoran\\Restoran\\Program.cs",
-              "RelativeDocumentMoniker": "Restoran\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Restoran\\Restoran\\Program.cs",
-              "RelativeToolTip": "Restoran\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "DishUpdateViewModel.cs",
+              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Areas\\Admin\\Data\\DishUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "Restoran\\Areas\\Admin\\Data\\DishUpdateViewModel.cs",
+              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Areas\\Admin\\Data\\DishUpdateViewModel.cs",
+              "RelativeToolTip": "Restoran\\Areas\\Admin\\Data\\DishUpdateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T18:06:59.073Z",
+              "WhenOpened": "2025-06-11T09:53:23.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FileExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Restoran\\Restoran\\Areas\\Admin\\Extensions\\FileExtensions.cs",
-              "RelativeDocumentMoniker": "Restoran\\Areas\\Admin\\Extensions\\FileExtensions.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Restoran\\Restoran\\Areas\\Admin\\Extensions\\FileExtensions.cs",
-              "RelativeToolTip": "Restoran\\Areas\\Admin\\Extensions\\FileExtensions.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T18:06:37.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FilePathConstants.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Restoran\\Restoran\\Areas\\Admin\\Data\\FilePathConstants.cs",
-              "RelativeDocumentMoniker": "Restoran\\Areas\\Admin\\Data\\FilePathConstants.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Restoran\\Restoran\\Areas\\Admin\\Data\\FilePathConstants.cs",
-              "RelativeToolTip": "Restoran\\Areas\\Admin\\Data\\FilePathConstants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T18:06:32.326Z",
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Areas\\Admin\\Views\\Dish\\Update.cshtml",
+              "RelativeDocumentMoniker": "Restoran\\Areas\\Admin\\Views\\Dish\\Update.cshtml",
+              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Areas\\Admin\\Views\\Dish\\Update.cshtml",
+              "RelativeToolTip": "Restoran\\Areas\\Admin\\Views\\Dish\\Update.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAADAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T07:36:08.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Restoran\\Restoran\\Areas\\Admin\\Views\\Dish\\Index.cshtml",
-              "RelativeDocumentMoniker": "Restoran\\Areas\\Admin\\Views\\Dish\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Restoran\\Restoran\\Areas\\Admin\\Views\\Dish\\Index.cshtml",
-              "RelativeToolTip": "Restoran\\Areas\\Admin\\Views\\Dish\\Index.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAArwA4AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-10T17:25:30.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Restoran\\Restoran\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Areas\\Admin\\Controllers\\SliderController.cs",
               "RelativeDocumentMoniker": "Restoran\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Restoran\\Restoran\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Areas\\Admin\\Controllers\\SliderController.cs",
               "RelativeToolTip": "Restoran\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAkwAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAnwHEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T17:48:39.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DishController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Restoran\\Restoran\\Areas\\Admin\\Controllers\\DishController.cs",
+              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Areas\\Admin\\Controllers\\DishController.cs",
               "RelativeDocumentMoniker": "Restoran\\Areas\\Admin\\Controllers\\DishController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Restoran\\Restoran\\Areas\\Admin\\Controllers\\DishController.cs",
+              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Areas\\Admin\\Controllers\\DishController.cs",
               "RelativeToolTip": "Restoran\\Areas\\Admin\\Controllers\\DishController.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAkwCQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAnwHUAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T19:14:06.104Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 923,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

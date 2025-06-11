@@ -12,7 +12,7 @@
 
                 <div class="form-group">
                     <label for="exampleInputName1">Price</label>
-                    <input asp-for="Price" class="form-control" id="exampleInputName1" placeholder="Price">
+                    <input asp-for="Price" class="form-control" id="exampleInputName1" placeholder="">
                 </div>
                 <span asp-validation-for="Price" class="text-danger"></span>
 
@@ -29,7 +29,6 @@
                     </div>
                     <span asp-validation-for="ImageFile" class="text-danger"></span>
                 </div>
-
                 <div asp-validation-summary="ModelOnly"></div>
                 <button type="submit" class="btn btn-primary mr-2">Submit</button>
                 <a asp-action="index" class="btn btn-light">Cancel</a>

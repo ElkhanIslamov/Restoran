@@ -10,5 +10,7 @@ namespace Restoran.DataContext.Entities
         public required string ImageUrl { get; set; }
         [Column(TypeName = "decimal(18,2)")]
         public decimal Price { get; set; }
+        [NotMapped]
+        public IFormFile? ImageFile { get; set; }
     }
 }
