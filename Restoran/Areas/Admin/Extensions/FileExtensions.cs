@@ -1,6 +1,6 @@
 ﻿using Restoran.DataContext.Entities;
 
-namespace Pb304PetShop.Areas.Admin.Extensions
+namespace Restoran.Areas.Admin.Extensions
 {
     public static class FileExtensions
     {

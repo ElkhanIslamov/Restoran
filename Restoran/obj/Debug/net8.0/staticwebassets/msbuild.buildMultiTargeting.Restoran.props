@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Restoran.props" />
+</Project>

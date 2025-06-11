@@ -276,3 +276,4 @@ E:\Рабочий стол\Restoran\Restoran\obj\Debug\net8.0\Restoran.MvcApplic
 E:\Рабочий стол\Restoran\Restoran\obj\Debug\net8.0\Restoran.RazorAssemblyInfo.cache
 E:\Рабочий стол\Restoran\Restoran\obj\Debug\net8.0\Restoran.RazorAssemblyInfo.cs
 E:\Рабочий стол\Restoran\Restoran\obj\Debug\net8.0\Restoran.sourcelink.json
+C:\Users\User\Desktop\Restoran\Restoran\obj\Debug\net8.0\Restoran.sourcelink.json

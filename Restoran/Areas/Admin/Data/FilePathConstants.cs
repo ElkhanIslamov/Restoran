@@ -1,4 +1,4 @@
-﻿namespace Pb304PetShop.Areas.Admin.Data
+﻿namespace Restoran.Areas.Admin.Data
 {
     public class FilePathConstants
     {

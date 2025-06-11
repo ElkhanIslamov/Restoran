@@ -1,8 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Pb304PetShop.Areas.Admin.Data;
-using Pb304PetShop.Areas.Admin.Extensions;
 using Restoran.Areas.Admin.Data;
+using Restoran.Areas.Admin.Extensions;
 using Restoran.Data;
 using Restoran.DataContext;
 using Restoran.DataContext.Entities;
@@ -35,7 +34,6 @@ namespace Restoran.Areas.Admin.Controllers
                 Title = string.Empty,
                 Description = string.Empty,
                 ImageUrl = string.Empty,
-                Price = 0,
                 ImageFile = null
             };
             return View(dishCreateModel);
@@ -65,13 +63,13 @@ namespace Restoran.Areas.Admin.Controllers
             }
 
 
-            var unicalCoverImageFileName = await model.ImageFile.GenerateFile(FilePathConstants.DishPath);
+            var unicalImageFileName = await model.ImageFile.GenerateFile(FilePathConstants.DishPath);
 
             var dish = new Dish
             {
                 Title = model.Title,
                 Description = model.Description,
-                ImageUrl = unicalCoverImageFileName,
+                ImageUrl = unicalImageFileName,
                 Price = model.Price
             };
           
@@ -88,10 +86,10 @@ namespace Restoran.Areas.Admin.Controllers
 
             if (dish == null) return NotFound();
 
-            var removedSlider = _dbContext.Dishes.Remove(dish);
+            var removedDish = _dbContext.Dishes.Remove(dish);
             await _dbContext.SaveChangesAsync();
 
-            return Json(removedSlider.Entity);
+            return Json(removedDish.Entity);
         }
         public IActionResult Update(int id)
         {
@@ -114,38 +112,38 @@ namespace Restoran.Areas.Admin.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Update(int id, SliderUpdateViewModel model)
+        public async Task<IActionResult> Update(int id, DishUpdateViewModel model)
         {
-            var slider = await _dbContext.Sliders.FirstOrDefaultAsync(s => s.Id == id);
+            var dish = await _dbContext.Dishes.FirstOrDefaultAsync(d => d.Id == id);
 
-            if (slider == null) return NotFound();
+            if (dish == null) return NotFound();
 
             if (!ModelState.IsValid)
             {
                 return View(model);
             }
-            slider.FirstTitle = model.FirstTitle;
-            slider.SecondTitle = model.SecondTitle;
-            slider.Description = model.Description;
-            slider.ImageFile = model.CoverImageFile;
-
-            if (!model.CoverImageFile.IsAllowedSize(1))
+            dish.Title = model.Title;
+            dish.Description = model.Description;
+            dish.Price = model.Price;
+            dish.ImageUrl = model.ImageUrl;
+            
+            if (!model.ImageFile.IsAllowedSize(1))
             {
                 ModelState.AddModelError("ImageFile", "Sekil hecmi 1mb-dan cox ola bilmez");
 
                 return View(model);
             }
 
-            var unicalCoverImageFileName = await model.CoverImageFile.GenerateFile(FilePathConstants.SliderPath);
+            var unicalImageFileName = await model.ImageFile.GenerateFile(FilePathConstants.DishPath);
 
-            if (slider.CoverImageUrl != null)
+            if (dish.ImageUrl != null)
             {
-                System.IO.File.Delete(Path.Combine(FilePathConstants.SliderPath, slider.CoverImageUrl));
+                System.IO.File.Delete(Path.Combine(FilePathConstants.DishPath, dish.ImageUrl));
             }
 
-            slider.CoverImageUrl = unicalCoverImageFileName;
+            dish.ImageUrl = unicalImageFileName;
 
-            _dbContext.Sliders.Update(slider);
+            _dbContext.Dishes.Update(dish);
             await _dbContext.SaveChangesAsync();
 
             return RedirectToAction(nameof(Index));

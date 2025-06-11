@@ -1,9 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using Pb304PetShop.Areas.Admin.Data;
-using Pb304PetShop.Areas.Admin.Extensions;
 using Restoran.Areas.Admin.Data;
+using Restoran.Areas.Admin.Extensions;
 using Restoran.Data;
 using Restoran.DataContext;
 using Restoran.DataContext.Entities;

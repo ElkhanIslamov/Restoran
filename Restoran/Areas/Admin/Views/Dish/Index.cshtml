@@ -3,8 +3,8 @@
 <div class="col-lg-8 grid-margin stretch-card">
     <div class="card">
         <div class="card-body">
-            <h4 class="card-title">Slider</h4>
-            <a asp-controller="slider" asp-action="create" class="btn btn-primary">Add slider</a>
+            <h4 class="card-title">Dish</h4>
+            <a asp-controller="dish" asp-action="create" class="btn btn-primary">Add dish</a>
             <div class="table-responsive">
                 <table class="table">
                     <thead>
@@ -20,7 +20,7 @@
                         @foreach (var item in Model)
                         {
                             <tr>
-                                <td><img src="~/images/dishes/@item.ImageUrl" alt="test"></td>
+                                <td><img src="~/images/dish/@item.ImageUrl" alt="test"></td>
                                 <td>@item.Title</td>
                                 <td>@item.Price</td>
                                 <td>@item.Description</td>

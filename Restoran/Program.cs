@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Restoran.DataContext.Entities;
 using Restoran.DataContext;
-using Pb304PetShop.Areas.Admin.Data;
+using Restoran.Areas.Admin.Data;
 
 namespace Restoran
 {
