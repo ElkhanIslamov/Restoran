@@ -2249,28 +2249,20 @@
       "PackagePath": "staticwebassets\\assets\\revolution\\js\\jquery.themepunch.tools.min838f.js"
     },
     {
-      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Fillet-9176bbbe-f350-476c-83bd-b8154246a4e8.jpg",
-      "PackagePath": "staticwebassets\\images\\dish\\Fillet-9176bbbe-f350-476c-83bd-b8154246a4e8.jpg"
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Alder Grilled Seafood Paella-5835f7f0-70f8-4682-b22a-c905fc027c69.jpg",
+      "PackagePath": "staticwebassets\\images\\dish\\Alder Grilled Seafood Paella-5835f7f0-70f8-4682-b22a-c905fc027c69.jpg"
     },
     {
-      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\1-1075e05a-4c24-4749-b439-6ebf1ae32040.jpeg",
-      "PackagePath": "staticwebassets\\images\\slider\\1-1075e05a-4c24-4749-b439-6ebf1ae32040.jpeg"
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Chicken-b0059cdd-373a-4177-8d57-e0cf14b85344.jpg",
+      "PackagePath": "staticwebassets\\images\\dish\\Chicken-b0059cdd-373a-4177-8d57-e0cf14b85344.jpg"
     },
     {
-      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\1-4490c787-c72d-41bc-ac3a-8b3931a28d99.jpeg",
-      "PackagePath": "staticwebassets\\images\\slider\\1-4490c787-c72d-41bc-ac3a-8b3931a28d99.jpeg"
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Fillet-d55c6376-a0d8-477a-9707-e228346996b7.jpg",
+      "PackagePath": "staticwebassets\\images\\dish\\Fillet-d55c6376-a0d8-477a-9707-e228346996b7.jpg"
     },
     {
-      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\1-9224cfdb-bc15-4407-a9b9-7448c78de842.jpeg",
-      "PackagePath": "staticwebassets\\images\\slider\\1-9224cfdb-bc15-4407-a9b9-7448c78de842.jpeg"
-    },
-    {
-      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\1-feb01a32-dc42-48f5-aad0-240f591a39fa.jpeg",
-      "PackagePath": "staticwebassets\\images\\slider\\1-feb01a32-dc42-48f5-aad0-240f591a39fa.jpeg"
-    },
-    {
-      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\Fry-239d392d-c6e4-434a-a7fc-bff6db22575f.jpeg",
-      "PackagePath": "staticwebassets\\images\\slider\\Fry-239d392d-c6e4-434a-a7fc-bff6db22575f.jpeg"
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Grilled Filled-259abe24-f8c9-4f84-a6e3-5b32be246b44.jpg",
+      "PackagePath": "staticwebassets\\images\\dish\\Grilled Filled-259abe24-f8c9-4f84-a6e3-5b32be246b44.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Restoran.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

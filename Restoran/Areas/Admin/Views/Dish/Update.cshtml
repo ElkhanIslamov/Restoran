@@ -19,9 +19,9 @@
                     <input asp-for="Description" class="form-control" id="exampleInputName1" placeholder="Description">
                 </div>
                 <span asp-validation-for="Description" class="text-danger"></span>
+                <img src="~/images/dish/@Model.ImageUrl" width="100" height="100" />
+                <img id="imagePreview" src="#" alt="Selected Image" style="display:none; width:200px; height:auto; margin-top:10px;" />
                 <div class="form-group">
-                    <img src="~/images/dish/@Model.ImageUrl" width="100" height="100" />
-                    <img id="imagePreview" src="#" alt="Selected Image" style="display:none; width:200px; height:auto; margin-top:10px;" />
                     <label>Change image</label>
                     <div class="input-group col-xs-12">
                         <input asp-for="ImageFile" class="form-control file-upload-info" placeholder="Upload Image">
@@ -37,7 +37,7 @@
 <script>
     function Delete(id,button){
     const selectTagInput = document.getElementById("tagSelectList");
-    const url = '/admin/product/removeTag';
+    const url = '/admin/dish/removeTag';
     const data = {
       id: id,
     };

@@ -108,7 +108,8 @@ namespace Restoran.Areas.Admin.Controllers
                 FirstTitle = slider.FirstTitle,
                 SecondTitle = slider.SecondTitle,
                 Description = slider.Description,          
-                CoverImageFile = slider.ImageFile
+                CoverImageUrl = slider.CoverImageUrl,
+                CoverImageFile = null
             };
 
             return View(sliderUpdateModel);
@@ -128,14 +129,22 @@ namespace Restoran.Areas.Admin.Controllers
             slider.FirstTitle = model.FirstTitle;
             slider.SecondTitle = model.SecondTitle;
             slider.Description = model.Description;
-            slider.ImageFile = model.CoverImageFile;
+           
 
-            if (!model.CoverImageFile.IsAllowedSize(1))
+            if (model.CoverImageFile != null)
             {
-               ModelState.AddModelError("ImageFile", "Sekil hecmi 1mb-dan cox ola bilmez");
+                if (!model.CoverImageFile.IsImage())
+                {
+                    ModelState.AddModelError("ImageFile", "Sekil secilmelidir!");
+                    return View(model);
+                }
 
-               return View(model);
-            }
+                if (!model.CoverImageFile.IsAllowedSize(1))
+                {
+                    ModelState.AddModelError("ImageFile", "Sekil hecmi 1mb-dan cox ola bilmez");
+
+                    return View(model);
+                }
 
                 var unicalCoverImageFileName = await model.CoverImageFile.GenerateFile(FilePathConstants.SliderPath);
 
@@ -143,8 +152,8 @@ namespace Restoran.Areas.Admin.Controllers
                 {
                     System.IO.File.Delete(Path.Combine(FilePathConstants.SliderPath, slider.CoverImageUrl));
                 }
-
-                slider.CoverImageUrl = unicalCoverImageFileName;                
+                slider.CoverImageUrl = unicalCoverImageFileName;
+            }                          
 
             _dbContext.Sliders.Update(slider);
             await _dbContext.SaveChangesAsync();

@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\restoran\\restoran\\areas\\admin\\data\\dishupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\areas\\admin\\data\\dishupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\restoran\\restoran\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\restoran\\restoran\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\restoran\\restoran\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\restoran\\restoran\\areas\\admin\\controllers\\dishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\areas\\admin\\controllers\\dishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\restoran\\restoran\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\restoran\\restoran\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\restoran\\restoran\\areas\\admin\\views\\dish\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\areas\\admin\\views\\dish\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\restoran\\restoran\\datacontext\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\datacontext\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\restoran\\restoran\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\restoran\\restoran\\areas\\admin\\views\\dish\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\areas\\admin\\views\\dish\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\restoran\\restoran\\datacontext\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\datacontext\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +46,120 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DishUpdateViewModel.cs",
-              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Areas\\Admin\\Data\\DishUpdateViewModel.cs",
-              "RelativeDocumentMoniker": "Restoran\\Areas\\Admin\\Data\\DishUpdateViewModel.cs",
-              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Areas\\Admin\\Data\\DishUpdateViewModel.cs",
-              "RelativeToolTip": "Restoran\\Areas\\Admin\\Data\\DishUpdateViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T09:53:23.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Areas\\Admin\\Views\\Dish\\Update.cshtml",
-              "RelativeDocumentMoniker": "Restoran\\Areas\\Admin\\Views\\Dish\\Update.cshtml",
-              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Areas\\Admin\\Views\\Dish\\Update.cshtml",
-              "RelativeToolTip": "Restoran\\Areas\\Admin\\Views\\Dish\\Update.cshtml",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAAADAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T07:36:08.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "Restoran\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "Restoran\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAnwG4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T17:48:39.173Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Restoran\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Restoran\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T12:03:32.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Restoran\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Restoran\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T11:59:07.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Views\\Menu\\Index.cshtml",
+              "RelativeDocumentMoniker": "Restoran\\Views\\Menu\\Index.cshtml",
+              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Views\\Menu\\Index.cshtml",
+              "RelativeToolTip": "Restoran\\Views\\Menu\\Index.cshtml",
+              "ViewState": "AgIAAH4BAAAAAAAAAAAAAIMBAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T10:11:42.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "Restoran\\Controllers\\MenuController.cs",
+              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "Restoran\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:58:05.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DishController.cs",
               "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Areas\\Admin\\Controllers\\DishController.cs",
               "RelativeDocumentMoniker": "Restoran\\Areas\\Admin\\Controllers\\DishController.cs",
               "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Areas\\Admin\\Controllers\\DishController.cs",
               "RelativeToolTip": "Restoran\\Areas\\Admin\\Controllers\\DishController.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAnwHUAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAIwLAAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T19:14:06.104Z",
+              "WhenOpened": "2025-06-12T09:00:13.15Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Areas\\Admin\\Views\\Dish\\Create.cshtml",
+              "RelativeDocumentMoniker": "Restoran\\Areas\\Admin\\Views\\Dish\\Create.cshtml",
+              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Areas\\Admin\\Views\\Dish\\Create.cshtml",
+              "RelativeToolTip": "Restoran\\Areas\\Admin\\Views\\Dish\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T09:09:19.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\DataContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Restoran\\DataContext\\AppDbContext.cs",
+              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\DataContext\\AppDbContext.cs",
+              "RelativeToolTip": "Restoran\\DataContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:55:25.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\DataContext\\Entities\\Dish.cs",
+              "RelativeDocumentMoniker": "Restoran\\DataContext\\Entities\\Dish.cs",
+              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\DataContext\\Entities\\Dish.cs",
+              "RelativeToolTip": "Restoran\\DataContext\\Entities\\Dish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:42:18.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\DataContext\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Restoran\\DataContext\\Entities\\Category.cs",
+              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\DataContext\\Entities\\Category.cs",
+              "RelativeToolTip": "Restoran\\DataContext\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:41:13.287Z"
             }
           ]
         }

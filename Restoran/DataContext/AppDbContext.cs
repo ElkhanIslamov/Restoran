@@ -11,6 +11,7 @@ namespace Restoran.DataContext
         }
         public DbSet<Slider> Sliders { get; set; }
         public DbSet<Dish> Dishes { get; set; }
+        public DbSet<Category> Categories { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GRa53fl+9stN4fmypc/qABBtLIm9d72cXIIlVWQw3Pk=",
+  "Hash": "xAg8zwmK1Z4kxyBWC9Nv4fLZL8s5f2ouTK1ilTtk504=",
   "Source": "Restoran",
   "BasePath": "_content/Restoran",
   "Mode": "Default",
@@ -11840,12 +11840,54 @@
       "OriginalItemSpec": "wwwroot\\assets\\revolution\\js\\jquery.themepunch.tools.min838f.js"
     },
     {
-      "Identity": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Fillet-9176bbbe-f350-476c-83bd-b8154246a4e8.jpg",
+      "Identity": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Alder Grilled Seafood Paella-5835f7f0-70f8-4682-b22a-c905fc027c69.jpg",
       "SourceId": "Restoran",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\",
       "BasePath": "_content/Restoran",
-      "RelativePath": "images/dish/Fillet-9176bbbe-f350-476c-83bd-b8154246a4e8#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/dish/Alder Grilled Seafood Paella-5835f7f0-70f8-4682-b22a-c905fc027c69#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pf4xcjo9pj",
+      "Integrity": "tQwUK9CuPPsk6RwdIkRw5mryFgy5rN8ovFiOdWXsmK0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dish\\Alder Grilled Seafood Paella-5835f7f0-70f8-4682-b22a-c905fc027c69.jpg"
+    },
+    {
+      "Identity": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Chicken-b0059cdd-373a-4177-8d57-e0cf14b85344.jpg",
+      "SourceId": "Restoran",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\",
+      "BasePath": "_content/Restoran",
+      "RelativePath": "images/dish/Chicken-b0059cdd-373a-4177-8d57-e0cf14b85344#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "syjey3npg4",
+      "Integrity": "lFrg90SUYWQrH0tmts7Ab9dQ6sSYs4NXoWvgcAI2PgE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dish\\Chicken-b0059cdd-373a-4177-8d57-e0cf14b85344.jpg"
+    },
+    {
+      "Identity": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Fillet-d55c6376-a0d8-477a-9707-e228346996b7.jpg",
+      "SourceId": "Restoran",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\",
+      "BasePath": "_content/Restoran",
+      "RelativePath": "images/dish/Fillet-d55c6376-a0d8-477a-9707-e228346996b7#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -11858,15 +11900,15 @@
       "Integrity": "Y335tTFIVxX0tMte4ZpM9XUh2QR7ChWSu9+Mf53xQtM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\dish\\Fillet-9176bbbe-f350-476c-83bd-b8154246a4e8.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\dish\\Fillet-d55c6376-a0d8-477a-9707-e228346996b7.jpg"
     },
     {
-      "Identity": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\1-1075e05a-4c24-4749-b439-6ebf1ae32040.jpeg",
+      "Identity": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Grilled Filled-259abe24-f8c9-4f84-a6e3-5b32be246b44.jpg",
       "SourceId": "Restoran",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\",
       "BasePath": "_content/Restoran",
-      "RelativePath": "images/slider/1-1075e05a-4c24-4749-b439-6ebf1ae32040#[.{fingerprint}]?.jpeg",
+      "RelativePath": "images/dish/Grilled Filled-259abe24-f8c9-4f84-a6e3-5b32be246b44#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -11875,95 +11917,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "fv1tnxfwyk",
-      "Integrity": "RcbCoDlERx+PfSdOpR31jetyJnFZPjsva558xYAWhd0=",
+      "Fingerprint": "mg4dbl6jlf",
+      "Integrity": "KikjlLA9ECHzly91ZnVgyIw4211CsvH38PkzaJveRjI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\slider\\1-1075e05a-4c24-4749-b439-6ebf1ae32040.jpeg"
-    },
-    {
-      "Identity": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\1-4490c787-c72d-41bc-ac3a-8b3931a28d99.jpeg",
-      "SourceId": "Restoran",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\",
-      "BasePath": "_content/Restoran",
-      "RelativePath": "images/slider/1-4490c787-c72d-41bc-ac3a-8b3931a28d99#[.{fingerprint}]?.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "fv1tnxfwyk",
-      "Integrity": "RcbCoDlERx+PfSdOpR31jetyJnFZPjsva558xYAWhd0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\slider\\1-4490c787-c72d-41bc-ac3a-8b3931a28d99.jpeg"
-    },
-    {
-      "Identity": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\1-9224cfdb-bc15-4407-a9b9-7448c78de842.jpeg",
-      "SourceId": "Restoran",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\",
-      "BasePath": "_content/Restoran",
-      "RelativePath": "images/slider/1-9224cfdb-bc15-4407-a9b9-7448c78de842#[.{fingerprint}]?.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "fv1tnxfwyk",
-      "Integrity": "RcbCoDlERx+PfSdOpR31jetyJnFZPjsva558xYAWhd0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\slider\\1-9224cfdb-bc15-4407-a9b9-7448c78de842.jpeg"
-    },
-    {
-      "Identity": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\1-feb01a32-dc42-48f5-aad0-240f591a39fa.jpeg",
-      "SourceId": "Restoran",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\",
-      "BasePath": "_content/Restoran",
-      "RelativePath": "images/slider/1-feb01a32-dc42-48f5-aad0-240f591a39fa#[.{fingerprint}]?.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "fv1tnxfwyk",
-      "Integrity": "RcbCoDlERx+PfSdOpR31jetyJnFZPjsva558xYAWhd0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\slider\\1-feb01a32-dc42-48f5-aad0-240f591a39fa.jpeg"
-    },
-    {
-      "Identity": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\Fry-239d392d-c6e4-434a-a7fc-bff6db22575f.jpeg",
-      "SourceId": "Restoran",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\",
-      "BasePath": "_content/Restoran",
-      "RelativePath": "images/slider/Fry-239d392d-c6e4-434a-a7fc-bff6db22575f#[.{fingerprint}]?.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "3ggwydm4ks",
-      "Integrity": "vc6O/7DUi4mig22SHzaMvONVo8xz0nmj5B5vriA50po=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\slider\\Fry-239d392d-c6e4-434a-a7fc-bff6db22575f.jpeg"
+      "OriginalItemSpec": "wwwroot\\images\\dish\\Grilled Filled-259abe24-f8c9-4f84-a6e3-5b32be246b44.jpg"
     }
   ],
   "Endpoints": [
@@ -57970,8 +57928,172 @@
       ]
     },
     {
-      "Route": "images/dish/Fillet-9176bbbe-f350-476c-83bd-b8154246a4e8.jpg",
-      "AssetFile": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Fillet-9176bbbe-f350-476c-83bd-b8154246a4e8.jpg",
+      "Route": "images/dish/Alder Grilled Seafood Paella-5835f7f0-70f8-4682-b22a-c905fc027c69.jpg",
+      "AssetFile": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Alder Grilled Seafood Paella-5835f7f0-70f8-4682-b22a-c905fc027c69.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tQwUK9CuPPsk6RwdIkRw5mryFgy5rN8ovFiOdWXsmK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 09:55:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tQwUK9CuPPsk6RwdIkRw5mryFgy5rN8ovFiOdWXsmK0="
+        }
+      ]
+    },
+    {
+      "Route": "images/dish/Alder Grilled Seafood Paella-5835f7f0-70f8-4682-b22a-c905fc027c69.pf4xcjo9pj.jpg",
+      "AssetFile": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Alder Grilled Seafood Paella-5835f7f0-70f8-4682-b22a-c905fc027c69.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tQwUK9CuPPsk6RwdIkRw5mryFgy5rN8ovFiOdWXsmK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 09:55:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pf4xcjo9pj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/dish/Alder Grilled Seafood Paella-5835f7f0-70f8-4682-b22a-c905fc027c69.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tQwUK9CuPPsk6RwdIkRw5mryFgy5rN8ovFiOdWXsmK0="
+        }
+      ]
+    },
+    {
+      "Route": "images/dish/Chicken-b0059cdd-373a-4177-8d57-e0cf14b85344.jpg",
+      "AssetFile": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Chicken-b0059cdd-373a-4177-8d57-e0cf14b85344.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44325"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lFrg90SUYWQrH0tmts7Ab9dQ6sSYs4NXoWvgcAI2PgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 09:56:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lFrg90SUYWQrH0tmts7Ab9dQ6sSYs4NXoWvgcAI2PgE="
+        }
+      ]
+    },
+    {
+      "Route": "images/dish/Chicken-b0059cdd-373a-4177-8d57-e0cf14b85344.syjey3npg4.jpg",
+      "AssetFile": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Chicken-b0059cdd-373a-4177-8d57-e0cf14b85344.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44325"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lFrg90SUYWQrH0tmts7Ab9dQ6sSYs4NXoWvgcAI2PgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 09:56:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "syjey3npg4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/dish/Chicken-b0059cdd-373a-4177-8d57-e0cf14b85344.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lFrg90SUYWQrH0tmts7Ab9dQ6sSYs4NXoWvgcAI2PgE="
+        }
+      ]
+    },
+    {
+      "Route": "images/dish/Fillet-d55c6376-a0d8-477a-9707-e228346996b7.jpg",
+      "AssetFile": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Fillet-d55c6376-a0d8-477a-9707-e228346996b7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -57992,7 +58114,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 07:34:20 GMT"
+          "Value": "Thu, 12 Jun 2025 07:26:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -58007,8 +58129,8 @@
       ]
     },
     {
-      "Route": "images/dish/Fillet-9176bbbe-f350-476c-83bd-b8154246a4e8.tkbc9x7ur2.jpg",
-      "AssetFile": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Fillet-9176bbbe-f350-476c-83bd-b8154246a4e8.jpg",
+      "Route": "images/dish/Fillet-d55c6376-a0d8-477a-9707-e228346996b7.tkbc9x7ur2.jpg",
+      "AssetFile": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Fillet-d55c6376-a0d8-477a-9707-e228346996b7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -58029,7 +58151,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 07:34:20 GMT"
+          "Value": "Thu, 12 Jun 2025 07:26:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -58043,7 +58165,7 @@
         },
         {
           "Name": "label",
-          "Value": "images/dish/Fillet-9176bbbe-f350-476c-83bd-b8154246a4e8.jpg"
+          "Value": "images/dish/Fillet-d55c6376-a0d8-477a-9707-e228346996b7.jpg"
         },
         {
           "Name": "integrity",
@@ -58052,8 +58174,8 @@
       ]
     },
     {
-      "Route": "images/slider/1-1075e05a-4c24-4749-b439-6ebf1ae32040.fv1tnxfwyk.jpeg",
-      "AssetFile": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\1-1075e05a-4c24-4749-b439-6ebf1ae32040.jpeg",
+      "Route": "images/dish/Grilled Filled-259abe24-f8c9-4f84-a6e3-5b32be246b44.jpg",
+      "AssetFile": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Grilled Filled-259abe24-f8c9-4f84-a6e3-5b32be246b44.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -58062,7 +58184,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9211"
+          "Value": "42820"
         },
         {
           "Name": "Content-Type",
@@ -58070,56 +58192,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RcbCoDlERx+PfSdOpR31jetyJnFZPjsva558xYAWhd0=\""
+          "Value": "\"KikjlLA9ECHzly91ZnVgyIw4211CsvH38PkzaJveRjI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 05:16:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fv1tnxfwyk"
-        },
-        {
-          "Name": "label",
-          "Value": "images/slider/1-1075e05a-4c24-4749-b439-6ebf1ae32040.jpeg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-RcbCoDlERx+PfSdOpR31jetyJnFZPjsva558xYAWhd0="
-        }
-      ]
-    },
-    {
-      "Route": "images/slider/1-1075e05a-4c24-4749-b439-6ebf1ae32040.jpeg",
-      "AssetFile": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\1-1075e05a-4c24-4749-b439-6ebf1ae32040.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9211"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RcbCoDlERx+PfSdOpR31jetyJnFZPjsva558xYAWhd0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 05:16:09 GMT"
+          "Value": "Thu, 12 Jun 2025 09:52:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -58129,13 +58206,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RcbCoDlERx+PfSdOpR31jetyJnFZPjsva558xYAWhd0="
+          "Value": "sha256-KikjlLA9ECHzly91ZnVgyIw4211CsvH38PkzaJveRjI="
         }
       ]
     },
     {
-      "Route": "images/slider/1-4490c787-c72d-41bc-ac3a-8b3931a28d99.fv1tnxfwyk.jpeg",
-      "AssetFile": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\1-4490c787-c72d-41bc-ac3a-8b3931a28d99.jpeg",
+      "Route": "images/dish/Grilled Filled-259abe24-f8c9-4f84-a6e3-5b32be246b44.mg4dbl6jlf.jpg",
+      "AssetFile": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Grilled Filled-259abe24-f8c9-4f84-a6e3-5b32be246b44.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -58144,7 +58221,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9211"
+          "Value": "42820"
         },
         {
           "Name": "Content-Type",
@@ -58152,11 +58229,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RcbCoDlERx+PfSdOpR31jetyJnFZPjsva558xYAWhd0=\""
+          "Value": "\"KikjlLA9ECHzly91ZnVgyIw4211CsvH38PkzaJveRjI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jun 2025 05:37:19 GMT"
+          "Value": "Thu, 12 Jun 2025 09:52:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -58166,298 +58243,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fv1tnxfwyk"
+          "Value": "mg4dbl6jlf"
         },
         {
           "Name": "label",
-          "Value": "images/slider/1-4490c787-c72d-41bc-ac3a-8b3931a28d99.jpeg"
+          "Value": "images/dish/Grilled Filled-259abe24-f8c9-4f84-a6e3-5b32be246b44.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-RcbCoDlERx+PfSdOpR31jetyJnFZPjsva558xYAWhd0="
-        }
-      ]
-    },
-    {
-      "Route": "images/slider/1-4490c787-c72d-41bc-ac3a-8b3931a28d99.jpeg",
-      "AssetFile": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\1-4490c787-c72d-41bc-ac3a-8b3931a28d99.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9211"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RcbCoDlERx+PfSdOpR31jetyJnFZPjsva558xYAWhd0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jun 2025 05:37:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-RcbCoDlERx+PfSdOpR31jetyJnFZPjsva558xYAWhd0="
-        }
-      ]
-    },
-    {
-      "Route": "images/slider/1-9224cfdb-bc15-4407-a9b9-7448c78de842.fv1tnxfwyk.jpeg",
-      "AssetFile": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\1-9224cfdb-bc15-4407-a9b9-7448c78de842.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9211"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RcbCoDlERx+PfSdOpR31jetyJnFZPjsva558xYAWhd0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jun 2025 05:37:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fv1tnxfwyk"
-        },
-        {
-          "Name": "label",
-          "Value": "images/slider/1-9224cfdb-bc15-4407-a9b9-7448c78de842.jpeg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-RcbCoDlERx+PfSdOpR31jetyJnFZPjsva558xYAWhd0="
-        }
-      ]
-    },
-    {
-      "Route": "images/slider/1-9224cfdb-bc15-4407-a9b9-7448c78de842.jpeg",
-      "AssetFile": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\1-9224cfdb-bc15-4407-a9b9-7448c78de842.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9211"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RcbCoDlERx+PfSdOpR31jetyJnFZPjsva558xYAWhd0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jun 2025 05:37:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-RcbCoDlERx+PfSdOpR31jetyJnFZPjsva558xYAWhd0="
-        }
-      ]
-    },
-    {
-      "Route": "images/slider/1-feb01a32-dc42-48f5-aad0-240f591a39fa.fv1tnxfwyk.jpeg",
-      "AssetFile": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\1-feb01a32-dc42-48f5-aad0-240f591a39fa.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9211"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RcbCoDlERx+PfSdOpR31jetyJnFZPjsva558xYAWhd0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jun 2025 05:37:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fv1tnxfwyk"
-        },
-        {
-          "Name": "label",
-          "Value": "images/slider/1-feb01a32-dc42-48f5-aad0-240f591a39fa.jpeg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-RcbCoDlERx+PfSdOpR31jetyJnFZPjsva558xYAWhd0="
-        }
-      ]
-    },
-    {
-      "Route": "images/slider/1-feb01a32-dc42-48f5-aad0-240f591a39fa.jpeg",
-      "AssetFile": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\1-feb01a32-dc42-48f5-aad0-240f591a39fa.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9211"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RcbCoDlERx+PfSdOpR31jetyJnFZPjsva558xYAWhd0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jun 2025 05:37:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-RcbCoDlERx+PfSdOpR31jetyJnFZPjsva558xYAWhd0="
-        }
-      ]
-    },
-    {
-      "Route": "images/slider/Fry-239d392d-c6e4-434a-a7fc-bff6db22575f.3ggwydm4ks.jpeg",
-      "AssetFile": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\Fry-239d392d-c6e4-434a-a7fc-bff6db22575f.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15399"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vc6O/7DUi4mig22SHzaMvONVo8xz0nmj5B5vriA50po=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jun 2025 05:37:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3ggwydm4ks"
-        },
-        {
-          "Name": "label",
-          "Value": "images/slider/Fry-239d392d-c6e4-434a-a7fc-bff6db22575f.jpeg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-vc6O/7DUi4mig22SHzaMvONVo8xz0nmj5B5vriA50po="
-        }
-      ]
-    },
-    {
-      "Route": "images/slider/Fry-239d392d-c6e4-434a-a7fc-bff6db22575f.jpeg",
-      "AssetFile": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\Fry-239d392d-c6e4-434a-a7fc-bff6db22575f.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15399"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vc6O/7DUi4mig22SHzaMvONVo8xz0nmj5B5vriA50po=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jun 2025 05:37:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-vc6O/7DUi4mig22SHzaMvONVo8xz0nmj5B5vriA50po="
+          "Value": "sha256-KikjlLA9ECHzly91ZnVgyIw4211CsvH38PkzaJveRjI="
         }
       ]
     },
@@ -58484,7 +58278,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 05:16:09 GMT"
+          "Value": "Thu, 12 Jun 2025 07:31:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -58521,7 +58315,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 05:16:09 GMT"
+          "Value": "Thu, 12 Jun 2025 07:31:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -58558,7 +58352,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 05:16:09 GMT"
+          "Value": "Thu, 12 Jun 2025 07:31:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -58603,7 +58397,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Jun 2025 05:16:09 GMT"
+          "Value": "Thu, 12 Jun 2025 07:31:29 GMT"
         },
         {
           "Name": "Cache-Control",
