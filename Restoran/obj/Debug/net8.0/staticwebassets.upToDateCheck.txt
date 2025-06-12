@@ -561,5 +561,8 @@ wwwroot\assets\revolution\js\jquery.themepunch.revolution.min838f.js
 wwwroot\assets\revolution\js\jquery.themepunch.tools.min838f.js
 wwwroot\images\dish\Alder Grilled Seafood Paella-5835f7f0-70f8-4682-b22a-c905fc027c69.jpg
 wwwroot\images\dish\Chicken-b0059cdd-373a-4177-8d57-e0cf14b85344.jpg
+wwwroot\images\dish\dolma-161efabe-7540-47b1-88d5-adda22fe7b6c.jpg
 wwwroot\images\dish\Fillet-d55c6376-a0d8-477a-9707-e228346996b7.jpg
 wwwroot\images\dish\Grilled Filled-259abe24-f8c9-4f84-a6e3-5b32be246b44.jpg
+wwwroot\images\dish\plov-11725456-5bea-4939-b908-8bca03e3c52b.jpg
+wwwroot\images\dish\salat-392cd92a-194e-4455-9a98-6ca2d4c1c4b0.jpg

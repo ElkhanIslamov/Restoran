@@ -29,7 +29,7 @@ namespace Restoran.Controllers
 
             };            
 
-            return View(dishes);
+            return View(model);
         }
     }
 }

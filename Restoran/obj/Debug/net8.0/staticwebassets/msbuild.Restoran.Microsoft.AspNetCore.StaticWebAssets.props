@@ -10134,6 +10134,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dish\Chicken-b0059cdd-373a-4177-8d57-e0cf14b85344.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dish\dolma-161efabe-7540-47b1-88d5-adda22fe7b6c.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Restoran</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Restoran</BasePath>
+      <RelativePath>images/dish/dolma-161efabe-7540-47b1-88d5-adda22fe7b6c.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>3vvj75uhny</Fingerprint>
+      <Integrity>8RzkVRqym8DFsEaNjQlirazryydQRNBhUHkh40Z8mBQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dish\dolma-161efabe-7540-47b1-88d5-adda22fe7b6c.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dish\Fillet-d55c6376-a0d8-477a-9707-e228346996b7.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>Restoran</SourceId>
@@ -10169,6 +10187,42 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dish\Grilled Filled-259abe24-f8c9-4f84-a6e3-5b32be246b44.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dish\plov-11725456-5bea-4939-b908-8bca03e3c52b.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Restoran</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Restoran</BasePath>
+      <RelativePath>images/dish/plov-11725456-5bea-4939-b908-8bca03e3c52b.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>diaq2l7n2h</Fingerprint>
+      <Integrity>tZ3MOZQscxUHOeaWsepjQYTINX2gL4pIN4+RNmSPhFc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dish\plov-11725456-5bea-4939-b908-8bca03e3c52b.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dish\salat-392cd92a-194e-4455-9a98-6ca2d4c1c4b0.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Restoran</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Restoran</BasePath>
+      <RelativePath>images/dish/salat-392cd92a-194e-4455-9a98-6ca2d4c1c4b0.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>eg5neu5bi9</Fingerprint>
+      <Integrity>om6rG/rnWQSh8mYNn81yvSeu1bKWaP0oYpY8DVDt6U4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dish\salat-392cd92a-194e-4455-9a98-6ca2d4c1c4b0.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Restoran.su0vmn3vux.bundle.scp.css'))">
       <SourceType>Package</SourceType>
