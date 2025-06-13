@@ -1,2279 +1,2299 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Restoran.bundle.scp.css",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Restoran.bundle.scp.css",
       "PackagePath": "staticwebassets\\Restoran.su0vmn3vux.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\css\\maps\\style.css.map",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\css\\maps\\style.css.map",
       "PackagePath": "staticwebassets\\admin\\css\\maps\\style.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\css\\style.css",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\css\\style.css",
       "PackagePath": "staticwebassets\\admin\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot",
       "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.eot"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf",
       "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.ttf"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff",
       "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2",
       "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff2"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot",
       "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.eot"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf",
       "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.ttf"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff",
       "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2",
       "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff2"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot",
       "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.eot"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf",
       "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.ttf"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff",
       "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2",
       "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff2"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot",
       "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.eot"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf",
       "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.ttf"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff",
       "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2",
       "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff2"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot",
       "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.eot"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf",
       "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.ttf"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff",
       "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2",
       "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff2"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\auth\\lockscreen-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\auth\\login-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\auth\\register-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face1.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face10.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face10.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face10.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face11.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face11.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face11.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face12.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face12.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face12.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face13.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face13.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face13.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face14.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face14.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face14.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face15.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face15.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face15.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face16.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face16.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face16.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face17.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face17.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face17.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face18.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face18.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face18.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face19.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face19.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face19.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face2.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face2.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face20.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face20.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face20.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face21.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face21.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face21.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face22.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face22.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face22.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face23.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face23.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face23.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face24.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face24.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face24.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face25.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face25.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face25.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face26.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face26.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face26.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face27.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face27.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face27.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face3.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face3.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face3.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face4.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face4.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face4.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face5.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face5.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face5.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face6.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face6.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face6.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face7.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face7.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face7.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face8.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face8.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face8.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face9.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\faces\\face9.jpg",
       "PackagePath": "staticwebassets\\admin\\images\\faces\\face9.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\favicon.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\favicon.png",
       "PackagePath": "staticwebassets\\admin\\images\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\logo-mini.svg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\logo-mini.svg",
       "PackagePath": "staticwebassets\\admin\\images\\logo-mini.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\images\\logo.svg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\images\\logo.svg",
       "PackagePath": "staticwebassets\\admin\\images\\logo.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\js\\Chart.min.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\js\\Chart.min.js",
       "PackagePath": "staticwebassets\\admin\\js\\Chart.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\js\\chart.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\js\\chart.js",
       "PackagePath": "staticwebassets\\admin\\js\\chart.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\js\\dashboard.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\js\\dashboard.js",
       "PackagePath": "staticwebassets\\admin\\js\\dashboard.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\js\\data-table.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\js\\data-table.js",
       "PackagePath": "staticwebassets\\admin\\js\\data-table.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
       "PackagePath": "staticwebassets\\admin\\js\\dataTables.bootstrap4.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\js\\documentation.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\js\\documentation.js",
       "PackagePath": "staticwebassets\\admin\\js\\documentation.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\js\\file-upload.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\js\\file-upload.js",
       "PackagePath": "staticwebassets\\admin\\js\\file-upload.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\js\\hoverable-collapse.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\js\\hoverable-collapse.js",
       "PackagePath": "staticwebassets\\admin\\js\\hoverable-collapse.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\js\\jquery.cookie.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\js\\jquery.cookie.js",
       "PackagePath": "staticwebassets\\admin\\js\\jquery.cookie.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\js\\jquery.dataTables.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\js\\jquery.dataTables.js",
       "PackagePath": "staticwebassets\\admin\\js\\jquery.dataTables.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\js\\off-canvas.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\js\\off-canvas.js",
       "PackagePath": "staticwebassets\\admin\\js\\off-canvas.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\js\\tabs.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\js\\tabs.js",
       "PackagePath": "staticwebassets\\admin\\js\\tabs.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\js\\template.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\js\\template.js",
       "PackagePath": "staticwebassets\\admin\\js\\template.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_background.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_background.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\_background.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_demo.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_demo.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\_demo.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_fonts.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_fonts.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\_fonts.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_footer.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_footer.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\_footer.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_functions.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_functions.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\_functions.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_layouts.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_layouts.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\_layouts.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_misc.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_misc.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\_misc.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_navbar.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_navbar.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_reset.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_reset.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\_reset.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_sidebar.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_sidebar.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\_sidebar.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_typography.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_typography.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\_typography.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_utilities.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_utilities.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_variables.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_vertical-wrapper.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\_vertical-wrapper.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\_vertical-wrapper.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\components\\_badges.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\components\\_badges.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\components\\_badges.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\components\\_bootstrap-progress.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\components\\_bootstrap-progress.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\components\\_bootstrap-progress.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\components\\_buttons.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\components\\_buttons.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\components\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\components\\_cards.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\components\\_cards.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\components\\_cards.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\components\\_checkbox-radio.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\components\\_checkbox-radio.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\components\\_checkbox-radio.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\components\\_dropdown.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\components\\_dropdown.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\components\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\components\\_forms.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\components\\_forms.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\components\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\components\\_icons.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\components\\_icons.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\components\\_icons.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\components\\_lists.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\components\\_lists.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\components\\_lists.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\components\\_tables.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\components\\_tables.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\components\\_tables.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\components\\plugin-overrides\\_data-tables.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\landing-screens\\_auth.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\landing-screens\\_auth.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\landing-screens\\_auth.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\mixins\\_animation.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\mixins\\_animation.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_animation.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\mixins\\_badges.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\mixins\\_badges.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_badges.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\mixins\\_blockqoute.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\mixins\\_blockqoute.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_blockqoute.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\mixins\\_buttons.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\mixins\\_cards.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\mixins\\_cards.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_cards.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\mixins\\_misc.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\mixins\\_misc.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\mixins\\_misc.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\scss\\style.scss",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\scss\\style.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\style.scss"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\base\\bootstrap.min.js.map",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\base\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\admin\\vendors\\base\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
       "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
       "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
       "PackagePath": "staticwebassets\\admin\\vendors\\chart.js\\Chart.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
       "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
       "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
       "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net\\jquery.dataTables.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
       "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
       "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
       "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
       "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
       "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
       "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
       "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\css\\external.css",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\css\\external.css",
       "PackagePath": "staticwebassets\\assets\\css\\external.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\css\\font\\ytp-regular.html",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\css\\font\\ytp-regular.html",
       "PackagePath": "staticwebassets\\assets\\css\\font\\ytp-regular.html"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\css\\fonts\\Linearicons-Free54e9.eot",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\css\\fonts\\Linearicons-Free54e9.eot",
       "PackagePath": "staticwebassets\\assets\\css\\fonts\\Linearicons-Free54e9.eot"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\css\\fonts\\Linearicons-Free54e9.html",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\css\\fonts\\Linearicons-Free54e9.html",
       "PackagePath": "staticwebassets\\assets\\css\\fonts\\Linearicons-Free54e9.html"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\css\\fonts\\Linearicons-Free54e9.ttf",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\css\\fonts\\Linearicons-Free54e9.ttf",
       "PackagePath": "staticwebassets\\assets\\css\\fonts\\Linearicons-Free54e9.ttf"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\css\\fonts\\Linearicons-Free54e9.woff",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\css\\fonts\\Linearicons-Free54e9.woff",
       "PackagePath": "staticwebassets\\assets\\css\\fonts\\Linearicons-Free54e9.woff"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\css\\fonts\\Linearicons-Free54e9.woff2",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\css\\fonts\\Linearicons-Free54e9.woff2",
       "PackagePath": "staticwebassets\\assets\\css\\fonts\\Linearicons-Free54e9.woff2"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\css\\fonts\\Linearicons-Freed41d.eot",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\css\\fonts\\Linearicons-Freed41d.eot",
       "PackagePath": "staticwebassets\\assets\\css\\fonts\\Linearicons-Freed41d.eot"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\css\\fonts\\Stroke-Gap-Icons.html",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\css\\fonts\\Stroke-Gap-Icons.html",
       "PackagePath": "staticwebassets\\assets\\css\\fonts\\Stroke-Gap-Icons.html"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\css\\owl.video.play.html",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\css\\owl.video.play.html",
       "PackagePath": "staticwebassets\\assets\\css\\owl.video.play.html"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\css\\polina.html",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\css\\polina.html",
       "PackagePath": "staticwebassets\\assets\\css\\polina.html"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\css\\style-arabic.css",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\css\\style-arabic.css",
       "PackagePath": "staticwebassets\\assets\\css\\style-arabic.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\css\\style-dark.css",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\css\\style-dark.css",
       "PackagePath": "staticwebassets\\assets\\css\\style-dark.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\css\\style-rtl.css",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\css\\style-rtl.css",
       "PackagePath": "staticwebassets\\assets\\css\\style-rtl.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\css\\style.css",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\fontawesome-webfont5b62.eot",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\fontawesome-webfont5b62.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont5b62.eot"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\fontawesome-webfont5b62.html",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\fontawesome-webfont5b62.html",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont5b62.html"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\fontawesome-webfont5b62.ttf",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\fontawesome-webfont5b62.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont5b62.ttf"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\fontawesome-webfont5b62.woff",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\fontawesome-webfont5b62.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont5b62.woff"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\fontawesome-webfont5b62.woff2",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\fontawesome-webfont5b62.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont5b62.woff2"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular-2.html",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular-2.html",
       "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular-2.html"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular-3.html",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular-3.html",
       "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular-3.html"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular-4.html",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular-4.html",
       "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular-4.html"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular-5.html",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular-5.html",
       "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular-5.html"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.html",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.html",
       "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.html"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\glyphicons-halflings-regulard41d.html",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\fonts\\glyphicons-halflings-regulard41d.html",
       "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regulard41d.html"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\background\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\10.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\10.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\background\\10.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\2.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\background\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\21.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\21.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\background\\21.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\22.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\22.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\background\\22.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\23.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\23.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\background\\23.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\24.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\24.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\background\\24.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\25.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\25.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\background\\25.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\26.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\26.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\background\\26.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\27.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\27.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\background\\27.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\28.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\28.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\background\\28.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\29.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\29.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\background\\29.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\30.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\30.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\background\\30.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\5.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\background\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\6.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\background\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\7.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\7.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\background\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\9.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\9.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\background\\9.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\patterns\\bg-body.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\patterns\\bg-body.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\background\\patterns\\bg-body.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\arrow-down-dark.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\arrow-down-dark.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\arrow-down-dark.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\arrow-down-dark2.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\arrow-down-dark2.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\arrow-down-dark2.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\arrow-down-white.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\arrow-down-white.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\arrow-down-white.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\arrow-down.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\arrow-down.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\arrow-down.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\arrow-up-theme.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\arrow-up-theme.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\arrow-up-theme.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\arrow-up.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\arrow-up.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\arrow-up.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-10down.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-10down.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\shape-10down.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-10up.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-10up.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\shape-10up.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-11.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-11.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\shape-11.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-13.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-13.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\shape-13.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-14down.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-14down.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\shape-14down.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-14up.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-14up.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\shape-14up.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-2down.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-2down.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\shape-2down.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-2up.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-2up.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\shape-2up.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-3down.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-3down.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\shape-3down.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-3up.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-3up.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\shape-3up.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-4.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-4.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\shape-4.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-4down.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-4down.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\shape-4down.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-4up.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-4up.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\shape-4up.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-5.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-5.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\shape-5.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-5down.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-5down.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\shape-5down.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-5up.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-5up.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\shape-5up.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-6down.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-6down.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\shape-6down.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-6up.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-6up.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\shape-6up.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-9.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-9.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\shape-9.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-header.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-header.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\shape-header.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-left.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-left.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\shape-left.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-right.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\background\\shapes\\shape-right.png",
       "PackagePath": "staticwebassets\\assets\\images\\background\\shapes\\shape-right.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banners\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\10.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\10.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banners\\10.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\15.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\15.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banners\\15.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\16.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\16.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banners\\16.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\17.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\17.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banners\\17.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\2.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banners\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\3.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banners\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\4.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banners\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\5.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banners\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\6.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banners\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\7.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\7.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banners\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\8.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\8.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banners\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\9.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\banners\\9.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banners\\9.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\grid\\1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\grid\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\grid\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\grid\\2.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\grid\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\grid\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\grid\\3.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\grid\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\grid\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\grid\\4.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\grid\\4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\grid\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\grid\\5.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\grid\\5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\grid\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\grid\\6.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\grid\\6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\grid\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\grid\\7.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\grid\\7.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\grid\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\grid\\8.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\grid\\8.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\grid\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\grid\\9.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\grid\\9.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\grid\\9.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\small\\1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\small\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\small\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\small\\2.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\small\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\small\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\small\\3.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\small\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\small\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\standard\\1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\standard\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\standard\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\standard\\2.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\standard\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\standard\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\standard\\3.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\standard\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\standard\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\standard\\4.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\standard\\4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\standard\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\thumb\\1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\thumb\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\thumb\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\thumb\\2.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\blog\\thumb\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\thumb\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\1.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\1.png",
       "PackagePath": "staticwebassets\\assets\\images\\clients\\1.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\17.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\17.png",
       "PackagePath": "staticwebassets\\assets\\images\\clients\\17.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\18.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\18.png",
       "PackagePath": "staticwebassets\\assets\\images\\clients\\18.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\19.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\19.png",
       "PackagePath": "staticwebassets\\assets\\images\\clients\\19.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\2.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\2.png",
       "PackagePath": "staticwebassets\\assets\\images\\clients\\2.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\20.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\20.png",
       "PackagePath": "staticwebassets\\assets\\images\\clients\\20.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\21.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\21.png",
       "PackagePath": "staticwebassets\\assets\\images\\clients\\21.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\22.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\22.png",
       "PackagePath": "staticwebassets\\assets\\images\\clients\\22.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\3.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\3.png",
       "PackagePath": "staticwebassets\\assets\\images\\clients\\3.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\4.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\4.png",
       "PackagePath": "staticwebassets\\assets\\images\\clients\\4.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\5.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\5.png",
       "PackagePath": "staticwebassets\\assets\\images\\clients\\5.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\6.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\6.png",
       "PackagePath": "staticwebassets\\assets\\images\\clients\\6.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\7.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\7.png",
       "PackagePath": "staticwebassets\\assets\\images\\clients\\7.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\8.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\clients\\8.png",
       "PackagePath": "staticwebassets\\assets\\images\\clients\\8.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\counter\\1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\counter\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\counter\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\favicon\\favicon.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\favicon\\favicon.png",
       "PackagePath": "staticwebassets\\assets\\images\\favicon\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\10.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\10.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\10.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\11.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\11.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\11.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\12.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\12.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\12.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\2.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\3.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\4.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\5.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\6.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\7.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\7.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\8.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\8.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\9.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\9.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\9.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\full\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\10.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\10.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\full\\10.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\11.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\11.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\full\\11.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\12.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\12.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\full\\12.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\2.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\full\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\3.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\full\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\4.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\full\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\5.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\full\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\6.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\full\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\7.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\7.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\full\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\8.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\8.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\full\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\9.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\gallery\\full\\9.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\gallery\\full\\9.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\heading\\Signiture.html",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\heading\\Signiture.html",
       "PackagePath": "staticwebassets\\assets\\images\\heading\\Signiture.html"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\heading\\signiture-white.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\heading\\signiture-white.png",
       "PackagePath": "staticwebassets\\assets\\images\\heading\\signiture-white.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\heading\\signiture.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\heading\\signiture.png",
       "PackagePath": "staticwebassets\\assets\\images\\heading\\signiture.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\1.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\1.png",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\1.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\10.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\10.png",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\10.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\11.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\11.png",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\11.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\12.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\12.png",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\12.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\13.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\13.png",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\13.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\14.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\14.png",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\14.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\15.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\15.png",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\15.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\2.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\2.png",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\2.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\3.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\3.png",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\3.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\4.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\4.png",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\4.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\5.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\5.png",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\5.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\6.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\6.png",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\6.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\7.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\7.png",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\7.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\8.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\8.png",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\8.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\9.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\icons\\9.png",
       "PackagePath": "staticwebassets\\assets\\images\\icons\\9.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\10.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\10.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\10.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\11.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\11.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\11.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\12.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\12.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\12.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\13.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\13.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\13.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\14.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\14.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\14.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\19.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\19.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\19.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\2.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\20.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\20.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\20.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\21.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\21.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\21.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\22.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\22.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\22.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\23.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\23.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\23.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\24.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\24.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\24.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\28.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\28.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\28.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\29.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\29.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\29.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\3.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\30.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\30.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\30.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\31.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\31.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\31.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\32.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\32.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\32.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\33.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\33.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\33.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\34.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\34.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\34.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\35.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\35.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\35.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\36.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\36.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\36.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\37.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\37.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\37.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\38.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\38.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\38.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\39.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\39.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\39.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\4.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\5.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\6.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\7.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\7.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\8.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\8.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\9.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\demos\\9.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\demos\\9.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\icons\\1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\icons\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\icons\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\icons\\2.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\icons\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\icons\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\icons\\3.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\icons\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\icons\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\icons\\4.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\icons\\4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\icons\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\icons\\5.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\icons\\5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\icons\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\icons\\6.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\landing\\icons\\6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\landing\\icons\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\logo\\logo-dark.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\logo\\logo-dark.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-dark.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\logo\\logo-light.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\logo\\logo-light.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-light.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\10.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\10.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\10.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\11.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\11.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\11.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\12.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\12.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\12.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\13.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\13.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\13.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\14.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\14.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\14.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\15.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\15.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\15.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\16.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\16.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\16.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\17.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\17.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\17.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\18.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\18.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\18.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\19.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\19.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\19.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\2.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\20.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\20.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\20.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\21.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\21.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\21.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\23.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\23.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\23.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\24.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\24.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\24.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\25.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\25.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\25.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\26.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\26.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\26.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\27.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\27.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\27.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\28.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\28.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\28.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\29.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\29.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\29.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\3.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\30.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\30.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\30.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\31.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\31.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\31.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\32.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\32.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\32.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\33.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\33.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\33.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\34.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\34.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\34.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\35.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\35.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\35.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\36.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\36.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\36.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\37.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\37.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\37.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\38.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\38.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\38.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\4.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\5.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\6.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\7.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\7.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\8.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\8.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\9.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\dish\\9.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\dish\\9.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\10.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\10.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\10.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\11.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\11.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\11.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\12.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\12.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\12.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\13.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\13.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\13.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\14.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\14.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\14.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\15.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\15.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\15.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\16.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\16.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\16.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\17.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\17.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\17.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\18.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\18.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\18.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\19.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\19.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\19.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\20.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\20.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\20.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\21.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\21.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\21.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\22.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\22.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\22.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\23.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\23.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\23.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\24.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\24.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\24.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\25.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\25.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\25.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\26.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\26.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\26.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\27.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\27.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\27.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\28.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\28.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\28.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\29.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\29.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\29.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\30.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\30.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\30.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\31.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\31.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\31.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\32.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\32.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\32.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\33.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\33.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\33.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\34.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\34.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\34.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\35.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\35.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\35.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\36.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\36.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\36.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\37.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\37.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\37.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\38.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\38.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\38.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\39.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\39.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\39.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\40.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\40.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\40.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\41.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\41.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\41.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\42.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\42.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\42.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\7.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\7.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\8.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\8.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\9.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\gallery\\9.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\gallery\\9.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\10.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\10.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\10.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\11.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\11.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\11.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\12.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\12.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\12.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\13.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\13.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\13.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\14.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\14.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\14.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\15.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\15.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\15.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\16.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\16.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\16.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\17.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\17.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\17.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\18.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\18.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\18.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\19.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\19.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\19.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\2.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\20.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\20.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\20.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\21.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\21.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\21.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\22.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\22.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\22.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\23.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\23.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\23.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\24.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\24.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\24.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\3.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\4.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\5.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\6.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\7.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\7.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\8.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\8.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\9.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-board\\9.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-board\\9.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\10.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\10.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\10.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\11.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\11.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\11.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\12.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\12.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\12.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\14.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\14.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\14.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\15.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\15.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\15.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\16.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\16.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\16.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\17.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\17.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\17.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\18.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\18.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\18.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\19.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\19.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\19.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\2.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\20.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\20.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\20.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\21.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\21.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\21.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\22.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\22.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\22.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\23.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\23.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\23.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\24.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\24.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\24.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\25.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\25.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\25.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\26.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\26.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\26.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\27.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\27.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\27.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\28.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\28.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\28.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\29.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\29.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\29.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\3.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\30.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\30.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\30.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\31.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\31.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\31.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\32.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\32.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\32.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\4.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\5.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\6.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\7.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\7.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\8.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\8.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\9.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\menu-grid\\9.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\menu-grid\\9.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\simple-banner\\1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\simple-banner\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\simple-banner\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\simple-banner\\2.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\simple-banner\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\simple-banner\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\simple-banner\\3.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\simple-banner\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\simple-banner\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\simple-banner\\4.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\simple-banner\\4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\simple-banner\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\simple-banner\\5.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\simple-banner\\5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\simple-banner\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\simple-banner\\6.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\menu\\simple-banner\\6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\menu\\simple-banner\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\page-title\\1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\page-title\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\page-title\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\page-title\\10.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\page-title\\10.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\page-title\\10.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\page-title\\15.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\page-title\\15.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\page-title\\15.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\page-title\\16.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\page-title\\16.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\page-title\\16.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\page-title\\2.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\page-title\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\page-title\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\page-title\\4.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\page-title\\4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\page-title\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\page-title\\5.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\page-title\\5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\page-title\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\page-title\\6.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\page-title\\6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\page-title\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\page-title\\7.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\page-title\\7.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\page-title\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\page-title\\9.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\page-title\\9.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\page-title\\9.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\full\\1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\full\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\shop\\full\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\shop\\grid\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\10.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\10.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\shop\\grid\\10.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\11.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\11.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\shop\\grid\\11.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\12.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\12.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\shop\\grid\\12.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\2.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\shop\\grid\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\3.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\shop\\grid\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\4.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\shop\\grid\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\5.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\shop\\grid\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\6.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\shop\\grid\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\7.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\7.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\shop\\grid\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\8.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\8.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\shop\\grid\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\9.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\grid\\9.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\shop\\grid\\9.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\thumb\\1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\thumb\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\shop\\thumb\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\thumb\\2.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\thumb\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\shop\\thumb\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\thumb\\3.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\thumb\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\shop\\thumb\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\thumb\\4.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\thumb\\4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\shop\\thumb\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\thumb\\6.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\thumb\\6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\shop\\thumb\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\thumb\\7.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\shop\\thumb\\7.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\shop\\thumb\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\arrows\\left-arrow-bg-dark.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\arrows\\left-arrow-bg-dark.png",
       "PackagePath": "staticwebassets\\assets\\images\\sliders\\arrows\\left-arrow-bg-dark.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\arrows\\left-arrow-bg.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\arrows\\left-arrow-bg.png",
       "PackagePath": "staticwebassets\\assets\\images\\sliders\\arrows\\left-arrow-bg.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\arrows\\left-arrow-dark.html",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\arrows\\left-arrow-dark.html",
       "PackagePath": "staticwebassets\\assets\\images\\sliders\\arrows\\left-arrow-dark.html"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\arrows\\left-arrow-wide.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\arrows\\left-arrow-wide.png",
       "PackagePath": "staticwebassets\\assets\\images\\sliders\\arrows\\left-arrow-wide.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\arrows\\left-arrow.html",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\arrows\\left-arrow.html",
       "PackagePath": "staticwebassets\\assets\\images\\sliders\\arrows\\left-arrow.html"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\arrows\\right-arrow-bg-dark.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\arrows\\right-arrow-bg-dark.png",
       "PackagePath": "staticwebassets\\assets\\images\\sliders\\arrows\\right-arrow-bg-dark.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\arrows\\right-arrow-bg.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\arrows\\right-arrow-bg.png",
       "PackagePath": "staticwebassets\\assets\\images\\sliders\\arrows\\right-arrow-bg.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\arrows\\right-arrow-dark.html",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\arrows\\right-arrow-dark.html",
       "PackagePath": "staticwebassets\\assets\\images\\sliders\\arrows\\right-arrow-dark.html"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\arrows\\right-arrow-wide.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\arrows\\right-arrow-wide.png",
       "PackagePath": "staticwebassets\\assets\\images\\sliders\\arrows\\right-arrow-wide.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\arrows\\right-arrow.html",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\arrows\\right-arrow.html",
       "PackagePath": "staticwebassets\\assets\\images\\sliders\\arrows\\right-arrow.html"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\slide-bg\\1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\slide-bg\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\sliders\\slide-bg\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\slide-bg\\12.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\slide-bg\\12.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\sliders\\slide-bg\\12.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\slide-bg\\2.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\slide-bg\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\sliders\\slide-bg\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\slide-bg\\3.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\slide-bg\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\sliders\\slide-bg\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\slide-bg\\4.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\slide-bg\\4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\sliders\\slide-bg\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\slide-bg\\5.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\slide-bg\\5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\sliders\\slide-bg\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\slide-bg\\6.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\slide-bg\\6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\sliders\\slide-bg\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\slide-bg\\7.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\slide-bg\\7.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\sliders\\slide-bg\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\slide-bg\\8.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\slide-bg\\8.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\sliders\\slide-bg\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\slide-bg\\knife-img.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\sliders\\slide-bg\\knife-img.png",
       "PackagePath": "staticwebassets\\assets\\images\\sliders\\slide-bg\\knife-img.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\specials\\popup\\1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\specials\\popup\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\specials\\popup\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\specials\\popup\\2.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\specials\\popup\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\specials\\popup\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\specials\\popup\\3.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\specials\\popup\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\specials\\popup\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\specials\\popup\\4.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\specials\\popup\\4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\specials\\popup\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\specials\\popup\\5.html",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\specials\\popup\\5.html",
       "PackagePath": "staticwebassets\\assets\\images\\specials\\popup\\5.html"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\specials\\popup\\6.html",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\specials\\popup\\6.html",
       "PackagePath": "staticwebassets\\assets\\images\\specials\\popup\\6.html"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\tabs\\1.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\tabs\\1.png",
       "PackagePath": "staticwebassets\\assets\\images\\tabs\\1.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\tabs\\2.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\tabs\\2.png",
       "PackagePath": "staticwebassets\\assets\\images\\tabs\\2.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\tabs\\3.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\tabs\\3.png",
       "PackagePath": "staticwebassets\\assets\\images\\tabs\\3.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\tabs\\4.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\tabs\\4.png",
       "PackagePath": "staticwebassets\\assets\\images\\tabs\\4.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\tabs\\5.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\tabs\\5.png",
       "PackagePath": "staticwebassets\\assets\\images\\tabs\\5.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\tabs\\6.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\tabs\\6.png",
       "PackagePath": "staticwebassets\\assets\\images\\tabs\\6.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\tabs\\7.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\tabs\\7.png",
       "PackagePath": "staticwebassets\\assets\\images\\tabs\\7.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\team\\1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\team\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\team\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\team\\2.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\team\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\team\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\team\\3.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\team\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\team\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\team\\4.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\team\\4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\team\\4.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\team\\5.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\team\\5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\team\\5.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\team\\6.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\team\\6.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\team\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\team\\7.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\team\\7.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\team\\7.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\team\\8.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\team\\8.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\team\\8.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\team\\thumb\\1.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\team\\thumb\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\team\\thumb\\1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\team\\thumb\\2.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\team\\thumb\\2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\team\\thumb\\2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\team\\thumb\\3.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\team\\thumb\\3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\team\\thumb\\3.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\testimonial\\1.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\testimonial\\1.png",
       "PackagePath": "staticwebassets\\assets\\images\\testimonial\\1.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\testimonial\\2.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\testimonial\\2.png",
       "PackagePath": "staticwebassets\\assets\\images\\testimonial\\2.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\testimonial\\3.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\testimonial\\3.png",
       "PackagePath": "staticwebassets\\assets\\images\\testimonial\\3.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\testimonial\\4.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\testimonial\\4.png",
       "PackagePath": "staticwebassets\\assets\\images\\testimonial\\4.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\testimonial\\chef-hat.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\testimonial\\chef-hat.png",
       "PackagePath": "staticwebassets\\assets\\images\\testimonial\\chef-hat.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\images\\testimonial\\icon5.html",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\images\\testimonial\\icon5.html",
       "PackagePath": "staticwebassets\\assets\\images\\testimonial\\icon5.html"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\js\\functions.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\js\\functions.js",
       "PackagePath": "staticwebassets\\assets\\js\\functions.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\js\\jquery-2.2.4.min.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\js\\jquery-2.2.4.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery-2.2.4.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\js\\plugins.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\js\\plugins.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\js\\plugins\\jquery.gmap.min.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\js\\plugins\\jquery.gmap.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.gmap.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\js\\rsconfig.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\js\\rsconfig.js",
       "PackagePath": "staticwebassets\\assets\\js\\rsconfig.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\assets\\coloredbg.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\assets\\coloredbg.png",
       "PackagePath": "staticwebassets\\assets\\revolution\\assets\\coloredbg.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\assets\\gridtile.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\assets\\gridtile.png",
       "PackagePath": "staticwebassets\\assets\\revolution\\assets\\gridtile.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\assets\\gridtile_3x3.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\assets\\gridtile_3x3.png",
       "PackagePath": "staticwebassets\\assets\\revolution\\assets\\gridtile_3x3.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\assets\\gridtile_3x3_white.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\assets\\gridtile_3x3_white.png",
       "PackagePath": "staticwebassets\\assets\\revolution\\assets\\gridtile_3x3_white.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\assets\\gridtile_white.png",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\assets\\gridtile_white.png",
       "PackagePath": "staticwebassets\\assets\\revolution\\assets\\gridtile_white.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\assets\\loader.gif",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\assets\\loader.gif",
       "PackagePath": "staticwebassets\\assets\\revolution\\assets\\loader.gif"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\css\\closedhand.cur",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\css\\closedhand.cur",
       "PackagePath": "staticwebassets\\assets\\revolution\\css\\closedhand.cur"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\css\\layers.css",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\css\\layers.css",
       "PackagePath": "staticwebassets\\assets\\revolution\\css\\layers.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\css\\navigation.css",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\css\\navigation.css",
       "PackagePath": "staticwebassets\\assets\\revolution\\css\\navigation.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\css\\openhand.cur",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\css\\openhand.cur",
       "PackagePath": "staticwebassets\\assets\\revolution\\css\\openhand.cur"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\css\\settings.css",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\css\\settings.css",
       "PackagePath": "staticwebassets\\assets\\revolution\\css\\settings.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\fonts\\revicons\\revicons90c6.eot",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\fonts\\revicons\\revicons90c6.eot",
       "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\revicons\\revicons90c6.eot"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\fonts\\revicons\\revicons90c6.svg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\fonts\\revicons\\revicons90c6.svg",
       "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\revicons\\revicons90c6.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\fonts\\revicons\\revicons90c6.ttf",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\fonts\\revicons\\revicons90c6.ttf",
       "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\revicons\\revicons90c6.ttf"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\fonts\\revicons\\revicons90c6.woff",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\fonts\\revicons\\revicons90c6.woff",
       "PackagePath": "staticwebassets\\assets\\revolution\\fonts\\revicons\\revicons90c6.woff"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
       "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.actions.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js",
       "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
       "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.migration.min.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.migration.min.js",
       "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.migration.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
       "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.navigation.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.parallax.min.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.parallax.min.js",
       "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.parallax.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
       "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.video.min.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\js\\extensions\\revolution.extension.video.min.js",
       "PackagePath": "staticwebassets\\assets\\revolution\\js\\extensions\\revolution.extension.video.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\js\\jquery.themepunch.revolution.min838f.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\js\\jquery.themepunch.revolution.min838f.js",
       "PackagePath": "staticwebassets\\assets\\revolution\\js\\jquery.themepunch.revolution.min838f.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\js\\jquery.themepunch.tools.min838f.js",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\assets\\revolution\\js\\jquery.themepunch.tools.min838f.js",
       "PackagePath": "staticwebassets\\assets\\revolution\\js\\jquery.themepunch.tools.min838f.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\images\\dish\\Alder Grilled Seafood Paella-5835f7f0-70f8-4682-b22a-c905fc027c69.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Alder Grilled Seafood Paella-5835f7f0-70f8-4682-b22a-c905fc027c69.jpg",
       "PackagePath": "staticwebassets\\images\\dish\\Alder Grilled Seafood Paella-5835f7f0-70f8-4682-b22a-c905fc027c69.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\images\\dish\\Chicken-b0059cdd-373a-4177-8d57-e0cf14b85344.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Chicken-b0059cdd-373a-4177-8d57-e0cf14b85344.jpg",
       "PackagePath": "staticwebassets\\images\\dish\\Chicken-b0059cdd-373a-4177-8d57-e0cf14b85344.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\images\\dish\\Fillet-d55c6376-a0d8-477a-9707-e228346996b7.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Fillet-d55c6376-a0d8-477a-9707-e228346996b7.jpg",
       "PackagePath": "staticwebassets\\images\\dish\\Fillet-d55c6376-a0d8-477a-9707-e228346996b7.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\images\\dish\\Grilled Filled-259abe24-f8c9-4f84-a6e3-5b32be246b44.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Grilled Filled-259abe24-f8c9-4f84-a6e3-5b32be246b44.jpg",
       "PackagePath": "staticwebassets\\images\\dish\\Grilled Filled-259abe24-f8c9-4f84-a6e3-5b32be246b44.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\images\\dish\\dolma-161efabe-7540-47b1-88d5-adda22fe7b6c.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\Trout-e477842e-43bf-497a-a296-49c3aeff726e.jpg",
+      "PackagePath": "staticwebassets\\images\\dish\\Trout-e477842e-43bf-497a-a296-49c3aeff726e.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\dolma-161efabe-7540-47b1-88d5-adda22fe7b6c.jpg",
       "PackagePath": "staticwebassets\\images\\dish\\dolma-161efabe-7540-47b1-88d5-adda22fe7b6c.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\images\\dish\\plov-11725456-5bea-4939-b908-8bca03e3c52b.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\grilled-35d58a5a-ae5c-458b-9df0-a15b03ac76f2.jpg",
+      "PackagePath": "staticwebassets\\images\\dish\\grilled-35d58a5a-ae5c-458b-9df0-a15b03ac76f2.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\meat-8d373f90-2eca-4473-b1a9-e3824c2f5ec6.jpg",
+      "PackagePath": "staticwebassets\\images\\dish\\meat-8d373f90-2eca-4473-b1a9-e3824c2f5ec6.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\meat-a21008e1-162d-4e04-89cc-6f3e69a781ac.jpg",
+      "PackagePath": "staticwebassets\\images\\dish\\meat-a21008e1-162d-4e04-89cc-6f3e69a781ac.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\paella-52879db1-e68a-4ee5-b86c-4c3e80dcecb8.jpg",
+      "PackagePath": "staticwebassets\\images\\dish\\paella-52879db1-e68a-4ee5-b86c-4c3e80dcecb8.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\plov-11725456-5bea-4939-b908-8bca03e3c52b.jpg",
       "PackagePath": "staticwebassets\\images\\dish\\plov-11725456-5bea-4939-b908-8bca03e3c52b.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\Новая папка\\Restoran\\Restoran\\wwwroot\\images\\dish\\salat-392cd92a-194e-4455-9a98-6ca2d4c1c4b0.jpg",
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\salat-392cd92a-194e-4455-9a98-6ca2d4c1c4b0.jpg",
       "PackagePath": "staticwebassets\\images\\dish\\salat-392cd92a-194e-4455-9a98-6ca2d4c1c4b0.jpg"
     },
     {

@@ -564,5 +564,10 @@ wwwroot\images\dish\Chicken-b0059cdd-373a-4177-8d57-e0cf14b85344.jpg
 wwwroot\images\dish\dolma-161efabe-7540-47b1-88d5-adda22fe7b6c.jpg
 wwwroot\images\dish\Fillet-d55c6376-a0d8-477a-9707-e228346996b7.jpg
 wwwroot\images\dish\Grilled Filled-259abe24-f8c9-4f84-a6e3-5b32be246b44.jpg
+wwwroot\images\dish\grilled-35d58a5a-ae5c-458b-9df0-a15b03ac76f2.jpg
+wwwroot\images\dish\meat-8d373f90-2eca-4473-b1a9-e3824c2f5ec6.jpg
+wwwroot\images\dish\meat-a21008e1-162d-4e04-89cc-6f3e69a781ac.jpg
+wwwroot\images\dish\paella-52879db1-e68a-4ee5-b86c-4c3e80dcecb8.jpg
 wwwroot\images\dish\plov-11725456-5bea-4939-b908-8bca03e3c52b.jpg
 wwwroot\images\dish\salat-392cd92a-194e-4455-9a98-6ca2d4c1c4b0.jpg
+wwwroot\images\dish\Trout-e477842e-43bf-497a-a296-49c3aeff726e.jpg

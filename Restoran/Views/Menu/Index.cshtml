@@ -1,111 +1,102 @@
 ﻿@{
-	HomeViewModel hm = Model;
-	var sliders = hm.Sliders;
-	var dishes = hm.Dishes;
-	var categories = hm.Categories;
+    HomeViewModel hm = Model;
+    var categories = hm.Categories;
+    var dishes = hm.Dishes;
+    bool isFirst = true;
 }
 <section id="menuGallery" class="pb-60">
-	<div class="container">
-		<div class="row clearfix">
-			<div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
-				<div class="heading heading-1 mb-50 text--center">
-					<p class="heading--subtitle">Start Eating Better</p>
-					<h2 class="heading--title mb-0">Daily New Fresh Meals</h2>
-					<div class="divider--shape-4"></div>
-					<p class="heading--desc">Steak In has the perfect place to enjoy fine food and great cocktails with excellent service, in comfortable atmospheric surroundings. We have a soft dining room, combined with an open kitchen, coffee take out bar and alovely awesome on site coffee roastery.</p>
-				</div>
-			</div>
-			<!-- .col-md-8 end -->
-		</div>
-		<!-- .row end -->
-	</div>
-	<!-- .container end -->
-	<div class="container-fluid pr-0 pl-0 tabs">
-		<div class="row">
-			<div class="col-xs-12 col-sm-12 col-md-12">
-				<!-- Nav tabs -->
-				<ul class="nav nav-tabs">
-					@foreach (var item in categories)
-					{
-						<li><a href="#breakfast" data-toggle="tab">@item.Name</a></li>
-					}
-				</ul>
-				<!-- Tab panes -->
-				<div class="tab-content">
-					<div class="tab-pane fade" id="breakfast">
-						<!-- Menu #2
-						============================================= -->
-						<div class="menu menu-gallery">
-							<div class="container">
-								<div class="row">
-									@foreach (var item in dishes)
-									{
-										<div class="col-xs-12 col-sm-6 col-md-4">
-											<div class="dish-panel">
-												<div class="dish--img">
-													<img src="assets/images/menu/gallery/13.jpg" alt="Dish Image">
-													<div class="dish--overlay">
-														<a class="dish-popup" data-toggle="modal" data-target="#dishPopup13"><i class="fa fa-search-plus"></i></a>
-														<div class="modal fade" tabindex="-1" role="dialog" id="dishPopup13">
-															<div class="modal-dialog" role="document">
-																<div class="modal-content">
-																	<div class="modal-body">
-																		<button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
-																		<div class="row reservation">
-																			<div class="col-xs-12 col-sm-12 col-md-12">
-																				<div class="popup--img">
-																					<img src="~/images/dish/@item.ImageUrl" alt="dish img">
-																					<div class="img-popup-overlay">
-																						<div class="popup--price">$ @item.Price</div>
-																						<h3 class="popup--title">@item.Title</h3>
-																					</div>
-																				</div>
-																			</div>
-																			<!-- .col-md-12 end -->
-																			<div class="col-xs-12 col-sm-12 col-md-12">
-																				<div class="content-popup">
-																					<p>@item.Description</p>
-																				</div>
-																			</div>
-																		</div>
-																		<!-- .row end -->
-																	</div>
-																</div>
-																<!-- /.modal-content -->
-															</div>
-															<!-- /.modal-dialog -->
-														</div>
-														<!-- /.modal -->
-													</div>
-												</div>
-												<div class="dish--content">
-													<h3 class="dish--title">Grilled Fillet</h3>
-													<div class="dish--price">$12.95</div>
-													<p class="dish--desc">eggs, bacon and cherry-tomatoes with bread.</p>
-												</div>
-											</div>
-											<!-- .dish end -->
-										</div>
-									}
+    <div class="container">
+        <div class="row clearfix">
+            <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
+                <div class="heading heading-1 mb-50 text--center">
+                    <p class="heading--subtitle">Start Eating Better</p>
+                    <h2 class="heading--title mb-0">Daily New Fresh Meals</h2>
+                    <div class="divider--shape-4"></div>
+                    <p class="heading--desc">
+                        Steak In has the perfect place to enjoy fine food and great cocktails with excellent service, in comfortable atmospheric surroundings. We have a soft dining room, combined with an open kitchen, coffee take out bar and a lovely awesome on site coffee roastery.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
 
+    <div class="container-fluid pr-0 pl-0 tabs">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12">
+                <!-- Nav tabs -->
+                <ul class="nav nav-tabs">
+                    @foreach (var cat in categories)
+                    {
+                        <li class="@(isFirst ? "active" : "")">
+                            <a href="#tab-@cat.Id" data-toggle="tab">@cat.Name</a>
+                        </li>
+                        isFirst = false;
+                    }
+                </ul>
 
-
-								</div>
-								<!-- .row end -->
-							</div>
-							<!-- .container end -->
-						</div>
-						<!-- #menu2 end -->
-					</div>
-					<!-- .tab-pane end -->
-					<!-- .tab-pane end -->
-				</div>
-				<!-- .tabs-content end -->
-			</div>
-			<!-- .col-md-12 end -->
-		</div>
-		<!-- .row end -->
-	</div>
-	<!-- .container end -->
+                <!-- Tab panes -->
+                @{
+                    isFirst = true;
+                }
+                <div class="tab-content">
+                    @foreach (var cat in categories)
+                    {
+                        var filteredDishes = dishes.Where(d => d.CategoryId == cat.Id).ToList();
+                        <div class="tab-pane fade @(isFirst ? "in active" : "")" id="tab-@cat.Id">
+                            <div class="menu menu-gallery">
+                                <div class="container">
+                                    <div class="row">
+                                        @foreach (var item in filteredDishes)
+                                        {
+                                            <div class="col-xs-12 col-sm-6 col-md-4">
+                                                <div class="dish-panel">
+                                                    <div class="dish--img">
+                                                        <img src="~/images/dish/@item.ImageUrl" alt="Dish Image">
+                                                        <div class="dish--overlay">
+                                                            <a class="dish-popup" data-toggle="modal" data-target="#dishPopup@item.Id"><i class="fa fa-search-plus"></i></a>
+                                                            <div class="modal fade" tabindex="-1" role="dialog" id="dishPopup@item.Id">
+                                                                <div class="modal-dialog" role="document">
+                                                                    <div class="modal-content">
+                                                                        <div class="modal-body">
+                                                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></button>
+                                                                            <div class="row reservation">
+                                                                                <div class="col-xs-12 col-sm-12 col-md-12">
+                                                                                    <div class="popup--img">
+                                                                                        <img src="~/images/dish/@item.ImageUrl" alt="dish img">
+                                                                                        <div class="img-popup-overlay">
+                                                                                            <div class="popup--price">$ @item.Price</div>
+                                                                                            <h3 class="popup--title">@item.Title</h3>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="col-xs-12 col-sm-12 col-md-12">
+                                                                                    <div class="content-popup">
+                                                                                        <p>@item.Description</p>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="dish--content">
+                                                        <h3 class="dish--title">@item.Title</h3>
+                                                        <div class="dish--price">$ @item.Price</div>
+                                                        <p class="dish--desc">@item.Description.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        isFirst = false;
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
-
