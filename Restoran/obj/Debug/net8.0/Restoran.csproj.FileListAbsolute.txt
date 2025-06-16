@@ -807,3 +807,8 @@ C:\Users\User\Desktop\Новая папка\Restoran\Restoran\obj\Debug\net8.0\r
 C:\Users\User\Desktop\Новая папка\Restoran\Restoran\obj\Debug\net8.0\Restoran.pdb
 C:\Users\User\Desktop\Новая папка\Restoran\Restoran\obj\Debug\net8.0\Restoran.genruntimeconfig.cache
 C:\Users\User\Desktop\Новая папка\Restoran\Restoran\obj\Debug\net8.0\ref\Restoran.dll
+C:\Users\User\Desktop\Новая папка\Restoran\Restoran\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\User\Desktop\Новая папка\Restoran\Restoran\bin\Debug\net8.0\MailKit.dll
+C:\Users\User\Desktop\Новая папка\Restoran\Restoran\bin\Debug\net8.0\MimeKit.dll
+C:\Users\User\Desktop\Новая папка\Restoran\Restoran\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\Desktop\Новая папка\Restoran\Restoran\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll

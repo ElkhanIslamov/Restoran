@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Restoran\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\restoran\\restoran\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|c:\\users\\user\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restoran\\restoran\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\restoran\\restoran\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|c:\\users\\user\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restoran\\restoran\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\restoran\\restoran\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|c:\\users\\user\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restoran\\restoran\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\restoran\\restoran\\areas\\admin\\controllers\\dishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\areas\\admin\\controllers\\dishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|e:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\restoran\\restoran\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|c:\\users\\user\\desktop\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\restoran\\restoran\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C2F3D-12D0-4E57-A5BA-9E0D81B78A4D}|Restoran\\Restoran.csproj|solutionrelative:restoran\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +26,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeViewModel.cs",
-              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Models\\HomeViewModel.cs",
-              "RelativeDocumentMoniker": "Restoran\\Models\\HomeViewModel.cs",
-              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Models\\HomeViewModel.cs",
-              "RelativeToolTip": "Restoran\\Models\\HomeViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T14:32:43.283Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Restoran\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Restoran\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAK4AAAAAAAAAAAAnwLkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T11:59:07.734Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Views\\Menu\\Index.cshtml",
-              "RelativeDocumentMoniker": "Restoran\\Views\\Menu\\Index.cshtml",
-              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Views\\Menu\\Index.cshtml",
-              "RelativeToolTip": "Restoran\\Views\\Menu\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAABfAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Restoran\\Restoran\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Restoran\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Restoran\\Restoran\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "Restoran\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAACMBAAAAAAAAAAAwwD0BAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T10:11:42.888Z",
+              "WhenOpened": "2025-06-16T14:13:06.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Restoran\\Restoran\\Models\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "Restoran\\Models\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Restoran\\Restoran\\Models\\HomeViewModel.cs",
+              "RelativeToolTip": "Restoran\\Models\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:10:08.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Restoran\\Restoran\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Restoran\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Restoran\\Restoran\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Restoran\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:08:39.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MenuController.cs",
-              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Controllers\\MenuController.cs",
-              "RelativeDocumentMoniker": "Restoran\\Controllers\\MenuController.cs",
-              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Controllers\\MenuController.cs",
-              "RelativeToolTip": "Restoran\\Controllers\\MenuController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAewB8AAAAdAAAAAAAAAA==",
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Restoran\\Restoran\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Restoran\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\Restoran\\Restoran\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Restoran\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T09:58:05.651Z"
-            },
+              "WhenOpened": "2025-06-16T14:08:35.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 923,
+          "SelectedChildIndex": -1,
+          "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DishController.cs",
-              "DocumentMoniker": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Areas\\Admin\\Controllers\\DishController.cs",
-              "RelativeDocumentMoniker": "Restoran\\Areas\\Admin\\Controllers\\DishController.cs",
-              "ToolTip": "E:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Restoran\\Restoran\\Areas\\Admin\\Controllers\\DishController.cs",
-              "RelativeToolTip": "Restoran\\Areas\\Admin\\Controllers\\DishController.cs",
-              "ViewState": "AgIAAKYAAAAAAAAAAAAIwLAAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T09:00:13.15Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

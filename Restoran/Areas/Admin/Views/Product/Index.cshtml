@@ -1,0 +1,75 @@
+﻿@model List<Product>
+
+<div class="col-lg-8 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Product</h4>
+            <a asp-controller="product" asp-action="create" class="btn btn-primary">Add product</a>
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Image</th>
+                            <th>Category</th>
+                            <th>Name</th>
+                            <th>Price</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td><img src="~/images/product/@item.ImageUrl" alt="test"></td>
+                                <td>@item.ShopCategory?.Name</td>
+                                <td>@item.Name</td>
+                                <td>@item.Price</td>
+                                <td>
+                                 <a asp-controller="shop" asp-action="details" asp-route-id="@item.Id" class="btn btn-primary">Details</a>
+                                    <a asp-controller="shop" asp-action="update" asp-route-id="@item.Id" class="btn btn-warning">Update</a>
+                                    @*                                          <form method="post" asp-action="delete">
+                                            <input type="hidden" name="id" value="@item.Id"/>
+                                            <button type="submit" class="btn btn-danger">Delete</button>
+                                         </form> *@
+                                    <button onclick="Delete(@item.Id, this)" class="btn btn-danger">Delete</button>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function Delete(id, button){
+    const url = '/admin/shop/delete';
+    const data = {
+      id: id,
+    };
+
+    const options = {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(data)
+    };
+
+    fetch(url, options)
+      .then(response => {
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        button.parentNode.parentNode.remove();
+      })
+      .catch(error => {
+        console.error('Error:', error);
+      });
+
+    }
+</script>
+
+
+

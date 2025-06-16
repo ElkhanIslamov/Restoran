@@ -18,6 +18,7 @@ namespace Restoran.Controllers
         public async Task<IActionResult> Index()
         {
             var categories = await _dbContext.Categories.ToListAsync();
+            var sliders = await _dbContext.Sliders.ToListAsync();
             var dishes = await _dbContext.Dishes
                 .Include(d => d.Category)
                 .ToListAsync();
@@ -25,7 +26,8 @@ namespace Restoran.Controllers
             var model = new HomeViewModel
             {
                 Categories = categories,
-                Dishes = dishes
+                Dishes = dishes,
+                Sliders = sliders,
 
             };            
 

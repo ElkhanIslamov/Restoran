@@ -49,7 +49,7 @@ namespace Restoran.DataContext
 
             var superAdmin = new AppUser
             {
-                FullName = _superAdmin.FullName,
+                Fullname = _superAdmin.FullName,
                 UserName = _superAdmin.UserName,
                 Email = _superAdmin.Email
             };

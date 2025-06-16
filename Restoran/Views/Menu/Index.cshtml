@@ -2,8 +2,94 @@
     HomeViewModel hm = Model;
     var categories = hm.Categories;
     var dishes = hm.Dishes;
+    var sliders = hm.Sliders;
     bool isFirst = true;
 }
+
+<section id="slider" class="slider slide-overlay-dark">
+    <!-- START REVOLUTION SLIDER 5.0 -->
+    <div class="rev_slider_wrapper">
+        <div id="slider1" class="rev_slider" data-version="5.0">
+            <ul>
+                <!-- slide 1 -->
+                @foreach (var item in sliders)
+                {
+                    <li data-transition="zoomout"
+                        data-slotamount="default"
+                        data-easein="Power4.easeInOut"
+                        data-easeout="Power4.easeInOut"
+                        data-masterspeed="2000">
+                        <!-- MAIN IMAGE -->
+                        <img src="~/images/slider/@item.CoverImageUrl" alt="Slide Background Image" width="1920" height="1280">
+                        <!-- LAYER NR. 1 -->
+                        <div class="tp-caption"
+                             data-x="center" data-hoffset="0"
+                             data-y="center" data-voffset="-130"
+                             data-whitespace="nowrap"
+                             data-width="none"
+                             data-height="none"
+                             data-frames='[{"delay":1500,"speed":1500,"frame":"0","from":"x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+                             data-splitin="none"
+                             data-splitout="none"
+                             data-responsive_offset="on">
+                            <div class="slide--subheadline">@item.FirstTitle</div>
+                        </div>
+
+                        <!-- LAYER NR. 2 -->
+                        <div class="tp-caption"
+                             data-x="center" data-hoffset="0"
+                             data-y="center" data-voffset="-65"
+                             data-whitespace="nowrap"
+                             data-width="none"
+                             data-height="none"
+                             data-frames='[{"delay":1750,"speed":1500,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+                             data-splitin="none"
+                             data-splitout="none"
+                             data-responsive_offset="on">
+                            <div class="slide--headline extend">@item.SecondTitle</div>
+                        </div>
+
+                        <!-- LAYER NR. 3 -->
+                        <div class="tp-caption"
+                             data-x="center" data-hoffset="0"
+                             data-y="center" data-voffset="20"
+                             data-width="none"
+                             data-height="none"
+                             data-frames='[{"delay":2000,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+                             data-splitin="none"
+                             data-splitout="none"
+                             data-responsive_offset="on">
+                            <div class="slide--bio text--center">@item.Description <br>excellent service, in comfortable atmospheric surroundings. </div>
+                        </div>
+
+                        <!-- LAYER NR. 4 -->
+                        <div class="tp-caption"
+                             data-x="center" data-hoffset="0"
+                             data-y="center" data-voffset="100"
+                             data-width="none"
+                             data-height="none"
+                             data-whitespace="nowrap"
+                             data-frames='[{"delay":2250,"speed":1500,"frame":"0","from":"x:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+                             data-splitin="none"
+                             data-splitout="none"
+                             data-actions='[{"event":"click","action":"jumptoslide","slide":"rs-164","delay":""}]'
+                             data-basealign="slide"
+                             data-responsive_offset="on"
+                             data-responsive="off">
+                            <div class="slide-action">
+                                <a class="btn btn--primary btn--inverse btn--rounded mr-30" href="#">View Menu</a>
+                                <a class="btn btn--white btn--bordered btn--rounded" href="#">Book A Table</a>
+                            </div>
+                        </div>
+                    </li>
+                 }
+            </ul>
+        </div>
+        <!-- END REVOLUTION SLIDER -->
+    </div>
+    <!-- END OF SLIDER WRAPPER -->
+</section>
+
 <section id="menuGallery" class="pb-60">
     <div class="container">
         <div class="row clearfix">
