@@ -25,8 +25,8 @@
                                 <td>@item.Name</td>
                                 <td>@item.Price</td>
                                 <td>
-                                 <a asp-controller="shop" asp-action="details" asp-route-id="@item.Id" class="btn btn-primary">Details</a>
-                                    <a asp-controller="shop" asp-action="update" asp-route-id="@item.Id" class="btn btn-warning">Update</a>
+                                 <a asp-controller="product" asp-action="details" asp-route-id="@item.Id" class="btn btn-primary">Details</a>
+                                    <a asp-controller="product" asp-action="update" asp-route-id="@item.Id" class="btn btn-warning">Update</a>
                                     @*                                          <form method="post" asp-action="delete">
                                             <input type="hidden" name="id" value="@item.Id"/>
                                             <button type="submit" class="btn btn-danger">Delete</button>
@@ -44,7 +44,7 @@
 
 <script>
     function Delete(id, button){
-    const url = '/admin/shop/delete';
+    const url = '/admin/product/delete';
     const data = {
       id: id,
     };

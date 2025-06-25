@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Restoran")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44718339c1de5a40410a98d3306df5215ec0dbb3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+128f985e9da493336f7e208a4a0cb381301f9954")]
 [assembly: System.Reflection.AssemblyProductAttribute("Restoran")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Restoran")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
