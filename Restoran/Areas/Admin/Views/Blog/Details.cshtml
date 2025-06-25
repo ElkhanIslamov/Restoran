@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "Details";
+}
+
+@model Blog
+<div class="content-wrapper">
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="card">
+                <img class="card-img-top" src="~/images/blog/@Model.ImageUrl" style="width: 25%" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">@Model.Name</h5>
+                    <p class="card-text">@Model.Content</p>
+                    <p class="card-text">Description: @Model.Description</p>
+                    <a asp-action="Index" class="btn btn-primary">Go Back</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

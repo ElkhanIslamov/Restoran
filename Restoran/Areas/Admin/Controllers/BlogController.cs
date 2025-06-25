@@ -35,8 +35,8 @@ namespace Restoran.Areas.Admin.Controllers
                 DateTime = DateTime.UtcNow,
                 Description = string.Empty,
                 Content = string.Empty,
-                ImageUrl = null,
-                ImageFile = null
+                ImageFile = null,
+                ImageUrl = string.Empty
             };
 
             return View(blogCreateModel);
@@ -48,38 +48,36 @@ namespace Restoran.Areas.Admin.Controllers
         {
             if (!ModelState.IsValid)
             {
+                ModelState.AddModelError("", "Xeta bas verdi, yeniden yoxlayin!");
                 return View(model);
             }
-
             if (!model.ImageFile.IsImage())
             {
                 ModelState.AddModelError("ImageFile", "Sekil secilmelidir!");
-
                 return View(model);
             }
-
             if (!model.ImageFile.IsAllowedSize(1))
             {
                 ModelState.AddModelError("ImageFile", "Sekil hecmi 1mb-dan cox ola bilmez");
-
                 return View(model);
             }
-
-
             var unicalCoverImageFileName = await model.ImageFile.GenerateFile(FilePathConstants.BlogPath);
-
             var blog = new Blog
             {
-                Content = model.Content,
+                Name = model.Name,
                 DateTime = model.DateTime,
                 Description = model.Description,
-                Name = model.Name,
-                ImageUrl = unicalCoverImageFileName
+                Content = model.Content,
+                ImageUrl = unicalCoverImageFileName,
+                
+                
             };
             await _dbContext.Blogs.AddAsync(blog);
             await _dbContext.SaveChangesAsync();
 
             return RedirectToAction(nameof(Index));
+
+
         }
         public async Task<IActionResult> Delete([FromBody] RequestModel requestModel)
         {

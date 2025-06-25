@@ -1,8 +1,8 @@
-﻿@model BlogCreateViewModel
+﻿@model GridUpdateViewModel
 <div class="col-8 grid-margin stretch-card">
     <div class="card">
         <div class="card-body">
-            <h4 class="card-title">Create Blog</h4>
+            <h4 class="card-title">Create Grid</h4>
             <form class="forms-sample" method="post" enctype="multipart/form-data">
                 <div class="form-group">
                     <label for="exampleInputName1">Name</label>
@@ -11,10 +11,10 @@
                 <span asp-validation-for="Name" class="text-danger"></span>
 
                 <div class="form-group">
-                    <label for="exampleInputName1">Date Time</label>
-                    <input asp-for="DateTime" class="form-control" id="exampleInputName1" placeholder="DateTime">
+                    <label for="exampleInputName1">Price</label>
+                    <input asp-for="Price" class="form-control" id="exampleInputName1" placeholder="Price">
                 </div>
-                <span asp-validation-for="DateTime" class="text-danger"></span>
+                <span asp-validation-for="Name" class="text-danger"></span>
 
                 <div class="form-group">
                     <label for="exampleInputName1">Description</label>
@@ -23,19 +23,7 @@
                 <span asp-validation-for="Description" class="text-danger"></span>
 
                 <div class="form-group">
-                    <label for="exampleInputName1">Content</label>
-                    <input asp-for="Content" class="form-control" id="exampleInputName1" placeholder="Content">
-                </div>
-                <span asp-validation-for="Content" class="text-danger"></span>
-
-                <div class="form-group">
-                    <label for="exampleInputName1">Comment Count</label>
-                    <input asp-for="Description" class="form-control" id="exampleInputName1" placeholder="CommentCount">
-                </div>
-                <span asp-validation-for="CommentCount" class="text-danger"></span>
-
-                <div class="form-group">
-                    <label>Cover image</label>
+                    <label>Image</label>
                     <div class="input-group col-xs-12">
                         <input asp-for="ImageFile" class="form-control file-upload-info" placeholder="Upload Image">
                     </div>
@@ -49,5 +37,4 @@
         </div>
     </div>
 </div>
-
 

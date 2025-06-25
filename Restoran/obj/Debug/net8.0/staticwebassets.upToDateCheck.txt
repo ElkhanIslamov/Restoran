@@ -559,6 +559,12 @@ wwwroot\assets\revolution\js\extensions\revolution.extension.slideanims.min.js
 wwwroot\assets\revolution\js\extensions\revolution.extension.video.min.js
 wwwroot\assets\revolution\js\jquery.themepunch.revolution.min838f.js
 wwwroot\assets\revolution\js\jquery.themepunch.tools.min838f.js
+wwwroot\images\blog\2-201cc5d7-6f62-4cfb-b8c2-7815ce252467.jpg
+wwwroot\images\blog\2-52d75065-605f-4af1-8822-cbe15c30c5d0.jpg
+wwwroot\images\blog\2-82e11266-a343-4ccf-9084-71caabdb5da0.jpg
+wwwroot\images\blog\2-b038e442-73c0-41de-ba97-5ec6b9452fff.jpg
+wwwroot\images\blog\2-de55880e-0a3a-4f77-bf0c-40ef5feffb0d.jpg
+wwwroot\images\blog\3-fcc588e9-9d19-43d5-8a71-c0c3ceec8324.jpg
 wwwroot\images\dish\24-19dad5f4-f349-4d6c-b698-baaffdf65b3d.jpg
 wwwroot\images\dish\3-2af2b09f-84a8-4fa3-a7b0-ef60c9ad4935.jpg
 wwwroot\images\dish\5-df37952a-4d0c-401e-9d2f-7f7f45f68f7d.jpg
@@ -582,6 +588,11 @@ wwwroot\images\grid\14-43333fbe-c091-4cdd-a5b5-367b41a22203.jpg
 wwwroot\images\grid\14-568ff620-5178-4b04-99d3-3a78daaf110c.jpg
 wwwroot\images\grid\15-7c783a3c-cfcb-4e5b-86b8-094a9fe88d26.jpg
 wwwroot\images\grid\15-f8adfbab-5f91-47dc-a304-fb04612f9dbb.jpg
+wwwroot\images\grid\20-57900d04-3839-4002-8f78-2b4e67d740e1.jpg
+wwwroot\images\grid\20-6ccce7d2-6888-417c-9d69-5a9b111ef273.jpg
+wwwroot\images\grid\21-16109bbc-7edc-4e70-92b8-8f3841c01f57.jpg
+wwwroot\images\grid\22-b988784b-7d76-4ebd-a298-56cf98afe00b.jpg
+wwwroot\images\grid\22-c79d7fb9-073c-4db5-b2fb-29cd8b8339e8.jpg
 wwwroot\images\grid\24-30f6248d-7ab5-46d9-8c37-8e9b220aadac.jpg
 wwwroot\images\grid\25-1b928745-a067-4868-9c1d-875cedf5bbc5.jpg
 wwwroot\images\grid\26-52a208ec-aa58-4d63-8cbf-4b529cc26c0f.jpg
@@ -614,10 +625,10 @@ wwwroot\images\product\product8-fa7393b6-fa48-4b78-9a41-e276ce78f45f.jpg
 wwwroot\images\slider\15-53077b90-2673-4891-97dc-46d9fd5a1885.jpg
 wwwroot\images\slider\1-e7dd1aec-f4e3-46bc-9946-85b419f3f82b.jpg
 wwwroot\images\slider\2-090131d3-7886-4579-9748-1dd4286fe0bf.jpg
-wwwroot\images\slider\2-30c0cc01-636f-4a86-89ff-2195037966e5.jpg
 wwwroot\images\slider\25-25ba25ed-7c7f-43a5-9bc1-65c27658b782.jpg
 wwwroot\images\slider\2-7e4d79da-ee01-4596-a689-10f3da9c4d78.jpg
 wwwroot\images\slider\3-5e019e2d-82c6-4c2a-b033-980e7da8b3e8.jpg
+wwwroot\images\slider\3-b1594165-7dcd-4c7f-b37f-40d3200efa3f.jpg
 wwwroot\images\slider\4-c661ea40-5b88-457e-b25b-1fba6becebbe.jpg
 wwwroot\images\slider\5-8b0122e5-c7b6-4044-95b1-36ecb15883de.jpg
 wwwroot\images\slider\7-5660e8aa-41a2-4106-9ae1-00312b567e49.jpg

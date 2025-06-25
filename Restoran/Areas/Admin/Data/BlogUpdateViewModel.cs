@@ -8,6 +8,6 @@
         public required string Content { get; set; }
         public int? CommentCount { get; set; }
         public string? ImageUrl { get; set; }
-        public required IFormFile ImageFile { get; set; }
+        public IFormFile? ImageFile { get; set; }
     }
 }

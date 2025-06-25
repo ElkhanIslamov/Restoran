@@ -2249,6 +2249,30 @@
       "PackagePath": "staticwebassets\\assets\\revolution\\js\\jquery.themepunch.tools.min838f.js"
     },
     {
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\blog\\2-201cc5d7-6f62-4cfb-b8c2-7815ce252467.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\2-201cc5d7-6f62-4cfb-b8c2-7815ce252467.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\blog\\2-52d75065-605f-4af1-8822-cbe15c30c5d0.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\2-52d75065-605f-4af1-8822-cbe15c30c5d0.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\blog\\2-82e11266-a343-4ccf-9084-71caabdb5da0.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\2-82e11266-a343-4ccf-9084-71caabdb5da0.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\blog\\2-b038e442-73c0-41de-ba97-5ec6b9452fff.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\2-b038e442-73c0-41de-ba97-5ec6b9452fff.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\blog\\2-de55880e-0a3a-4f77-bf0c-40ef5feffb0d.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\2-de55880e-0a3a-4f77-bf0c-40ef5feffb0d.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\blog\\3-fcc588e9-9d19-43d5-8a71-c0c3ceec8324.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\3-fcc588e9-9d19-43d5-8a71-c0c3ceec8324.jpg"
+    },
+    {
       "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\dish\\24-19dad5f4-f349-4d6c-b698-baaffdf65b3d.jpg",
       "PackagePath": "staticwebassets\\images\\dish\\24-19dad5f4-f349-4d6c-b698-baaffdf65b3d.jpg"
     },
@@ -2339,6 +2363,26 @@
     {
       "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\grid\\15-f8adfbab-5f91-47dc-a304-fb04612f9dbb.jpg",
       "PackagePath": "staticwebassets\\images\\grid\\15-f8adfbab-5f91-47dc-a304-fb04612f9dbb.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\grid\\20-57900d04-3839-4002-8f78-2b4e67d740e1.jpg",
+      "PackagePath": "staticwebassets\\images\\grid\\20-57900d04-3839-4002-8f78-2b4e67d740e1.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\grid\\20-6ccce7d2-6888-417c-9d69-5a9b111ef273.jpg",
+      "PackagePath": "staticwebassets\\images\\grid\\20-6ccce7d2-6888-417c-9d69-5a9b111ef273.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\grid\\21-16109bbc-7edc-4e70-92b8-8f3841c01f57.jpg",
+      "PackagePath": "staticwebassets\\images\\grid\\21-16109bbc-7edc-4e70-92b8-8f3841c01f57.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\grid\\22-b988784b-7d76-4ebd-a298-56cf98afe00b.jpg",
+      "PackagePath": "staticwebassets\\images\\grid\\22-b988784b-7d76-4ebd-a298-56cf98afe00b.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\grid\\22-c79d7fb9-073c-4db5-b2fb-29cd8b8339e8.jpg",
+      "PackagePath": "staticwebassets\\images\\grid\\22-c79d7fb9-073c-4db5-b2fb-29cd8b8339e8.jpg"
     },
     {
       "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\grid\\24-30f6248d-7ab5-46d9-8c37-8e9b220aadac.jpg",
@@ -2469,10 +2513,6 @@
       "PackagePath": "staticwebassets\\images\\slider\\2-090131d3-7886-4579-9748-1dd4286fe0bf.jpg"
     },
     {
-      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\2-30c0cc01-636f-4a86-89ff-2195037966e5.jpg",
-      "PackagePath": "staticwebassets\\images\\slider\\2-30c0cc01-636f-4a86-89ff-2195037966e5.jpg"
-    },
-    {
       "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\2-7e4d79da-ee01-4596-a689-10f3da9c4d78.jpg",
       "PackagePath": "staticwebassets\\images\\slider\\2-7e4d79da-ee01-4596-a689-10f3da9c4d78.jpg"
     },
@@ -2483,6 +2523,10 @@
     {
       "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\3-5e019e2d-82c6-4c2a-b033-980e7da8b3e8.jpg",
       "PackagePath": "staticwebassets\\images\\slider\\3-5e019e2d-82c6-4c2a-b033-980e7da8b3e8.jpg"
+    },
+    {
+      "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\3-b1594165-7dcd-4c7f-b37f-40d3200efa3f.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\3-b1594165-7dcd-4c7f-b37f-40d3200efa3f.jpg"
     },
     {
       "Id": "E:\\Рабочий стол\\Restoran\\Restoran\\wwwroot\\images\\slider\\4-c661ea40-5b88-457e-b25b-1fba6becebbe.jpg",
